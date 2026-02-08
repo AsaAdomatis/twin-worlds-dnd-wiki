@@ -35,11 +35,11 @@ Three primary factions exist in the Broadlands:
 
 #### 🌬 the Windless Blizzard
 
-...
+A faction built around the white dragon [[Broadlands/Campaign 1/NPCs/Kalthas the Wingless\|Kalthas the Wingless]]. It's power steadily grow as it domains expands across the Broadlands. Public opinion is mixed on them with some welcoming the structure on these ever lawless lands and others rebelling against their dogmatic tactics.
 
 #### 👑 the Mistport Dukedom
 
-...
+A kingdom on the coast of the Broadlands who claims authority over the whole land but is only recognized in the South and West. They seek respect for their claim but must first fix their own internal disputes.
 
 #### 🦎 the Kobolds
 
