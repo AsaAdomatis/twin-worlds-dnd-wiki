@@ -6,8 +6,18 @@
 
 > The Broadlands is a classic high fantasy setting built form more standard D&D setting with my own set of fun little twists.
 
+## 🌀 Prophecy of the Cyclone
+
+> Beware! What lies below is low cryptic lore that ties adventures here together, but a PC (player character) might not necessarily know this. As a rule of thumb don't delve greatly into this unless your passive History (Intelligence; 10 + History modifier) is 14 or higher.
+
+A mysterious prophecy called the [[Prophecy of the Cyclone\|Prophecy of the Cyclone]] is said to predict the dominant species for every millennium. The first 350 years of every millennia is an era of complex societal change and violent turmoil with the later 650 years being led by the victorious species. But the histories are not well kept; the prophecy can't be validated.
+
+It is known that giants known as the [[Broadlands/Lore/Jotun Kar\|Jotun Kar]] ruled since around the 4400s and prior to that possible liches and celestials. However, it is well known the humans (all humanoid species) have never been dominant and have always been at the mercy of the current dominant. 
+
+The year is 5346. If the prophecy is true, a decision will be made soon. The fate of the realms are in your hands.
+
 ## 🗺 The Local Area
-Below is a map of the Broadlands color coded by general environment. Nothing on here that hasn't visited is final.
+Below is a map of the Broadlands color coded by general environment. Nothing on here that hasn't been visited is final.
 
 ![Broadlands.png](/img/user/Images/Broadlands.png)
 
