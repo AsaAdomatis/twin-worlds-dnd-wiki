@@ -2,19 +2,19 @@
 {"dg-publish":true,"permalink":"/broadlands/broadlands-homepage/","tags":["broadlands"]}
 ---
 
-# 🐲Welcome to the Broadlands! 🌀
+# 🐲Welcome to the Broadlands! 📚
 
 > The Broadlands is a classic high fantasy setting built form more standard D&D setting with my own set of fun little twists.
 
-## 🌀 Prophecy of the Cyclone
+## 📚 The [[Broadlands/Lore/Books of Sybellia\|Books of Sybellia]]
 
 > Beware! What lies below is low cryptic lore that ties adventures here together, but a PC (player character) might not necessarily know this. As a rule of thumb don't delve greatly into this unless your passive History (Intelligence; 10 + History modifier) is 14 or higher.
 
-A mysterious prophecy called the [[Prophecy of the Cyclone\|Prophecy of the Cyclone]] is said to predict the dominant species for every millennium. The first 350 years of every millennia is an era of complex societal change and violent turmoil with the later 650 years being led by the victorious species. But the histories are not well kept; the prophecy can't be validated.
+A mysterious prophecy called the [[Broadlands/Lore/Books of Sybellia\|Books of Sybellia]] is said to predict the dominant species for every millennium. The first 350 years of every millennia is an era of complex societal change and violent turmoil with the later 650 years being led by the victorious species called the dominant. In those latter years, the dominant are offered a great boon, a wish of great magic, that far exceeds the capacity of mortal beings. It is thought that the [[Broadlands/Lore/Jotun Kar\|Jotun Kar]] wished for the power to create life.
 
-It is known that giants known as the [[Broadlands/Lore/Jotun Kar\|Jotun Kar]] ruled since around the 4400s and prior to that possible liches and celestials. However, it is well known the humans (all humanoid species) have never been dominant and have always been at the mercy of the current dominant. 
+The histories of the dominant are not well kept. The [[Broadlands/Lore/Jotun Kar\|Jotun]] were the last, but many speculations lie on those before them; maybe celestials, undead, aberrations, or something yet discovered. All lore tells us is that humanoids have never been the dominant.
 
-The year is 5346. If the prophecy is true, a decision will be made soon. The fate of the realms are in your hands.
+The year is [[Broadlands Timeline\|5346]]. If the prophecy is true, a decision will be made soon. The fate of the realms are in your hands.
 
 ## 🗺 The Local Area
 Below is a map of the Broadlands color coded by general environment. Nothing on here that hasn't been visited is final.
@@ -39,21 +39,22 @@ Below is a map of the Broadlands color coded by general environment. Nothing on 
 
 [[Broadlands/Campaign 1/Sessions/Active Encounters/Hell's Gate\|Hell's Gate]] is a dwarvish city north of [[Riverwild\|Riverwild]] built right into the [[Starsky Mountains\|Starsky Mountains]]. Like [[Riverwild\|Riverwild]] it is well fortified, but unlike them they do not respect the [[Mistport\|Mistport]] dukedom's authority; they operate on their own. 
 
+*Smaller locations can be found [[Towns of the Broadlands\|here]].*
 ## Factions
 
 Three primary factions exist in the Broadlands:
 
-#### 🌬 the Windless Blizzard
+#### 🌬 The Windless Blizzard
 
 A faction built around the white dragon [[Broadlands/Campaign 1/NPCs/Kalthas the Wingless\|Kalthas the Wingless]]. It's power steadily grow as it domains expands across the Broadlands. Public opinion is mixed on them with some welcoming the structure on these ever lawless lands and others rebelling against their dogmatic tactics.
 
-#### 👑 the Mistport Dukedom
+#### 👑 The Mistport Dukedom
 
 A kingdom on the coast of the Broadlands who claims authority over the whole land but is only recognized in the South and West. They seek respect for their claim but must first fix their own internal disputes.
 
-#### 🦎 the Kobolds
+#### 🦎 The Kobolds
 
 For lack of a better term -- or at least one for now -- the Kobolds seem to be a loose conglomerate with mysterious connections to the great red dragon and razer of [[Kehliel\|Kehliel]], [[Broadlands/Campaign 1/NPCs/Fyrenthor the Red Scourge\|Fyrenthor the Red Scourge]]. The only known connection is [[Broadlands/Campaign 1/NPCs/Cobalto the Prince of Kobolds\|Cobalto, the prince of Kobolds]].
 
-
+## :story Other Lore
 ## Session Summaries
