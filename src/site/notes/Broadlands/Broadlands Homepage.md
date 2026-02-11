@@ -1,20 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/broadlands/broadlands-homepage/","tags":["broadlands"]}
+{"dg-publish":true,"permalink":"/broadlands/broadlands-homepage/","tags":["broadlands","index"]}
 ---
 
 # 🐲Welcome to the Broadlands! 📚
 
 > The Broadlands is a classic high fantasy setting built form more standard D&D setting with my own set of fun little twists.
-
-## 📚 The [[Broadlands/Lore/Books of Sybellia\|Books of Sybellia]]
-
-> Beware! What lies below is low cryptic lore that ties adventures here together, but a PC (player character) might not necessarily know this. As a rule of thumb don't delve greatly into this unless your passive History (Intelligence; 10 + History modifier) is 14 or higher.
-
-A mysterious prophecy called the [[Broadlands/Lore/Books of Sybellia\|Books of Sybellia]] is said to predict the dominant species for every millennium. The first 350 years of every millennia is an era of complex societal change and violent turmoil with the later 650 years being led by the victorious species called the dominant. In those latter years, the dominant are offered a great boon, a wish of great magic, that far exceeds the capacity of mortal beings. It is thought that the [[Broadlands/Lore/Jotun Kar\|Jotun Kar]] wished for the power to create life.
-
-The histories of the dominant are not well kept. The [[Broadlands/Lore/Jotun Kar\|Jotun]] were the last, but many speculations lie on those before them; maybe celestials, undead, aberrations, or something yet discovered. All lore tells us is that humanoids have never been the dominant.
-
-The year is [[Broadlands Timeline\|5346]]. If the prophecy is true, a decision will be made soon. The fate of the realms are in your hands.
 
 ## 🗺 The Local Area
 Below is a map of the Broadlands color coded by general environment. Nothing on here that hasn't been visited is final.
@@ -39,7 +29,7 @@ Below is a map of the Broadlands color coded by general environment. Nothing on 
 
 [[Broadlands/Campaign 1/Sessions/Active Encounters/Hell's Gate\|Hell's Gate]] is a dwarvish city north of [[Riverwild\|Riverwild]] built right into the [[Starsky Mountains\|Starsky Mountains]]. Like [[Riverwild\|Riverwild]] it is well fortified, but unlike them they do not respect the [[Mistport\|Mistport]] dukedom's authority; they operate on their own. 
 
-*Smaller locations can be found [[Towns of the Broadlands\|here]].*
+*Smaller locations can be found [[Broadlands/Towns of the Broadlands\|here]].*
 ## Factions
 
 Three primary factions exist in the Broadlands:
@@ -56,5 +46,15 @@ A kingdom on the coast of the Broadlands who claims authority over the whole lan
 
 For lack of a better term -- or at least one for now -- the Kobolds seem to be a loose conglomerate with mysterious connections to the great red dragon and razer of [[Kehliel\|Kehliel]], [[Broadlands/Campaign 1/NPCs/Fyrenthor the Red Scourge\|Fyrenthor the Red Scourge]]. The only known connection is [[Broadlands/Campaign 1/NPCs/Cobalto the Prince of Kobolds\|Cobalto, the prince of Kobolds]].
 
-## :story Other Lore
+## 🚬 Other Lore
+
+### 📚 The [[Broadlands/Lore/Books of Sybellia\|Books of Sybellia]]
+
+> Beware! What lies below is low cryptic lore that ties adventures here together, but a PC (player character) might not necessarily know this. As a rule of thumb don't delve greatly into this unless your passive History (Intelligence; 10 + History modifier) is 14 or higher.
+
+A mysterious prophecy called the [[Broadlands/Lore/Books of Sybellia\|Books of Sybellia]] is said to predict the dominant species for every millennium. The first 350 years of every millennia is an era of complex societal change and violent turmoil with the later 650 years being led by the victorious species called the dominant. In those latter years, the dominant are offered a great boon, a wish of great magic, that far exceeds the capacity of mortal beings. It is thought that the [[Broadlands/Lore/Jotun Kar\|Jotun Kar]] wished for the power to create life.
+
+The histories of the dominant are not well kept. The [[Broadlands/Lore/Jotun Kar\|Jotun]] were the last, but many speculations lie on those before them; maybe celestials, undead, aberrations, or something yet discovered. All lore tells us is that humanoids have never been the dominant.
+
+The year is [[Broadlands Timeline\|5346]]. If the prophecy is true, a decision will be made soon. The fate of the realms are in your hands.
 ## Session Summaries
