@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/umm-homepage/"}
+{"dg-publish":true,"permalink":"/umm/umm-homepage/","tags":["umm","index"]}
 ---
 
 # 🧙‍♂ Welcome to the Land of Ümm!
@@ -12,12 +12,15 @@ The Kingdom of Pot and the greater continent of Pan is a campaign setting design
 ![Geographical Map of Pan Hi-Rez.png](/img/user/Images/Geographical%20Map%20of%20Pan%20Hi-Rez.png)
 
 
+### Campaigns
+
+- [[]]
+
 ## Organizations
 
 ### Factions and Guilds
 
 [[Umm/Lore/Organizations/Skydivers Guild\|Skydivers Guild]]: A group of scavengers who don heavy diving gear and miles of rope to jump of the floating city of [[Umm/Locations/Fofam\|Fofam]] and in the [[Umm/Locations/Abyssal City\|Abyssal City]] city deep in the ocean below.
-
 
 ### Faiths, Religions, and Philosophies
 
@@ -62,3 +65,10 @@ Pan is generally low tech, with technology only as advanced as it was around the
 - [[Loot/Guns\|Guns]]
 ## Locations
 - [[Umm/Locations/Abyssal City\|Abyssal City]]
+
+## Illegal Links 
+
+> *Author's Note:* DON'T USE IF PUBLISHED PLZ 👿 
+
+- [[Umm/2H Age of Pregic/Sessions/General Plan\|General Plan]]
+- [[Umm/Lore/Compendium of Umm\|Compendium of Umm]]

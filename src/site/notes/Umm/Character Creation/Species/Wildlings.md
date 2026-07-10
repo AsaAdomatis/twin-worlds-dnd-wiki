@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/species/wildlings/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/species/wildlings/","tags":["umm","character-creation"]}
 ---
 
 # Wildlings
+
 > Wildlings are animals with humanoid builds. Instead of being a vast array of unique races, all wildlings have the same origin, lycanthropy. A wildling, or more properly, a Veranthrope is a lycanthrope that has ascended beyond the separation of beast and humanoid, reconciling the two. Modern wildlings are almost always descendants of the original enlightened few. They live in small hamlets across Pot with other Wildlings of like appearance. Some traces of the original cultures of Wildlings are present in the hamlets. Many Mouslings still live life like Halflings and Lionins like the nomadic humans tribes from the South.
 
 - **Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20. Choose scores that make sense with what animal your lineage is based off of.

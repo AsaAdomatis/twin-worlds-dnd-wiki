@@ -18,7 +18,9 @@ The main strong hold of the Dragon born is the South in [[Nailia\|Nailia]] and [
 
 ### Gnomes
 
-[[Umm/Lore/Peoples/Gnomes of Umm\|Gnomes]] come in three different sizes: small, medium, and large, but nobody has seen the largnome in centuries. The small sort live in the South of [[Trawlittle\|Trawlittle]] among its similar sized wild life while others live in the North of [[Trawlittle\|Trawlittle]] in a spy state amongst the Ice Dwarves. The medium make live in the East of [[Stonton\|Stonton]] where the mountains meet the [[Deepwater\|Deepwater]] Lake. They live high in those mountain ranges and carve roads and city into the rock making isolated sanctuaries.
+[[Umm/Lore/Peoples/Gnomes of Umm\|Gnomes]] come in three different sizes: small, medium, and large, but nobody has seen the large in eons and the smallens, due to their expertise in stealth, are mostly folk lore. You can find more about the Gnomes of Ümm [[Umm/Lore/Peoples/Gnomes of Umm\|here]].
+
+The small sort, called Tea Gnomes, live in the South of [[Trawlittle\|Trawlittle]] among its similar sized wild life while others live in the North of [[Trawlittle\|Trawlittle]] in a spy state amongst the Ice Dwarves. The medium make live in the East of [[Stonton\|Stonton]] where the mountains meet the [[Deepwater\|Deepwater]] Lake. They live high in those mountain ranges and carve roads and city into the rock making isolated sanctuaries.
 
 ### Halflings
 
@@ -26,7 +28,7 @@ Unfinished...
 
 ### Humans
 
-[[Umm/Character Creation/Species/Humans of Pot\|Humans]] live primarily on the Eastern Coast of Pot in the Nations of [[Merusia\|Merusia]], [[Freland\|Freland]], [[Franklin\|Franklin]], and [[Merukirk\|Merukirk]] with scattered populations in [[Shaterlan\|Shaterlan]]. They also live in the Southwest on the [[Isle of Man\|Isle of Man]].
+[[Umm/Character Creation/Species/Humans of Umm\|Humans]] live primarily on the Eastern Coast of Pot in the Nations of [[Merusia\|Merusia]], [[Freland\|Freland]], [[Franklin\|Franklin]], and [[Merukirk\|Merukirk]] with scattered populations in [[Shaterlan\|Shaterlan]]. They also live in the Southwest on the [[Isle of Man\|Isle of Man]].
 
 [[Umm/Character Creation/Species/Orcs of Pot\|Orcs]]: Orcs are split have three main groups Worcs, Gorcs, and Morcs, but there are many other smaller clans with similar names. Worcs are strong and sturdy with gray skin and square, blocky features. Gorcs are intelligent and devoted and with blue skin and classical Orc features, and Morcs are spiritual and empathetic with orange skin and elephant-like features.
 

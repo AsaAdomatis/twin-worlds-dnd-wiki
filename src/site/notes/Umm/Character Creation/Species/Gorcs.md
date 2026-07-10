@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/species/gorcs/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/species/gorcs/","tags":["character-creation","umm"]}
 ---
 
+# Gorcs
 
 > Whether they'll admit it or not, Gorcs were born from Orcs. Long ago, the Orc, Gorc Bigskull sought to defeat the very idea of knowledge itself. While Gorcs keep the vicious temperament of Orcs, they trade their fortitude of body for fortitude of mind. Gorcs have the appearance of Orcs except they have pale blue skin.
 

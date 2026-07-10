@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/locations/shoe/"}
+{"dg-publish":true,"permalink":"/umm/locations/shoe/","tags":["umm","location"]}
 ---
 
 

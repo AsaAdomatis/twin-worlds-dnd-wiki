@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/master-homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/master-homepage/","tags":["index","gardenEntry"]}
 ---
 
 # World's Collide D&D Wiki

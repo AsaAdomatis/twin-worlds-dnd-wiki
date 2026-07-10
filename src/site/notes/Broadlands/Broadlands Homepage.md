@@ -48,7 +48,7 @@ For lack of a better term -- or at least one for now -- the Kobolds seem to be a
 
 ## 🚬 Other Lore
 
-### 📚 The [[Broadlands/Lore/Books of Sybellia\|Books of Sybellia]]
+### 📚 The Books of Sybellia
 
 > Beware! What lies below is low cryptic lore that ties adventures here together, but a PC (player character) might not necessarily know this. As a rule of thumb don't delve greatly into this unless your passive History (Intelligence; 10 + History modifier) is 14 or higher.
 
@@ -58,3 +58,5 @@ The histories of the dominant are not well kept. The [[Broadlands/Lore/Jotun Kar
 
 The year is [[Broadlands Timeline\|5346]]. If the prophecy is true, a decision will be made soon. The fate of the realms are in your hands.
 ## Session Summaries
+
+- [[Broadlands/Campaign 1/Campaign 1 Plot Summary\|Campaign 1 Plot Summary]]

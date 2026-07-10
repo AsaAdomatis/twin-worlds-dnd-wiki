@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homebrew-mechanics/class-and-subclasses/class-and-subclass-index/"}
+{"dg-publish":true,"permalink":"/homebrew-mechanics/class-and-subclasses/class-and-subclass-index/","tags":["index"]}
 ---
 
 
