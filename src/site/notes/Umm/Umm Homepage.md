@@ -96,5 +96,12 @@ The world is generally low tech, with technology only as advanced as it was arou
 
 > *Author's Note:* DON'T USE IF PUBLISHED PLZ!!!! 
 
-- [[Umm/2H Age of Pregic/Sessions/General Plan\|General Plan]]
-- [[Umm/Lore/Compendium of Umm\|Compendium of Umm]]
+```secret
+name: Hidden Links
+password: plzdontplz
+
+- [[General Plan]]
+- [[Compendium of Umm]]
+  
+```
+
