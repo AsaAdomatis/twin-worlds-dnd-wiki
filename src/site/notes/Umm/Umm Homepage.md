@@ -105,3 +105,10 @@ password: plzdontplz
   
 ```
 
+```secret
+name: Test check secret
+check: succeed on a DC 20 History check
+
+You did it. Now you *know* the **HISTORY**!
+
+```
