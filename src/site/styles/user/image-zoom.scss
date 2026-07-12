@@ -1,0 +1,67 @@
+/* ============================================================
+   Image zoom/pan lightbox overlay
+   Place in: src/site/styles/user/image-zoom.scss
+   Pairs with image-zoom.js (in src/site/scripts/) and
+   image-zoom.njk (in src/site/_includes/components/user/common/afterContent/)
+   ============================================================ */
+
+#dg-image-zoom-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.96); /* white, matches B&W theme */
+  cursor: zoom-out;
+  overflow: hidden;
+}
+
+#dg-image-zoom-overlay.is-open {
+  display: flex;
+}
+
+#dg-image-zoom-img {
+  max-width: 90vw;
+  max-height: 90vh;
+  border: 2px solid #000000;
+  background: #ffffff;
+  transition: transform 0.05s linear;
+  transform-origin: center center;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+#dg-image-zoom-close {
+  position: absolute;
+  top: 20px;
+  right: 28px;
+  font-family: 'Caveat', 'Comic Sans MS', cursive;
+  font-size: 2.2rem;
+  line-height: 1;
+  background: #000000;
+  color: #ffffff;
+  border: 2px solid #000000;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  cursor: pointer;
+}
+#dg-image-zoom-close:hover {
+  background: #ffffff;
+  color: #000000;
+}
+
+#dg-image-zoom-hint {
+  position: absolute;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: 'Patrick Hand', 'Comic Sans MS', cursive;
+  font-size: 1rem;
+  color: #000000;
+  background: #ffffff;
+  border: 2px solid #000000;
+  border-radius: 4px 9px 4px 8px / 8px 4px 9px 4px;
+  padding: 4px 12px;
+}
