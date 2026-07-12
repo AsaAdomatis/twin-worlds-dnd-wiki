@@ -99,7 +99,7 @@ The world is generally low tech, with technology only as advanced as it was arou
 ```secret
 name: Hidden Links
 password: plzdontplz
-
+---
 - [[General Plan]]
 - [[Compendium of Umm]]
   
@@ -108,7 +108,7 @@ password: plzdontplz
 ```secret
 name: Test check secret
 check: succeed on a DC 20 History check
-
+---
 You did it. Now you *know* the **HISTORY**!
 
 ```
