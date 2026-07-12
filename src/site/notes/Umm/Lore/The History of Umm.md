@@ -12,10 +12,10 @@ For most consumers, the history is now through stories. Some of these are docume
 - **Year:** 471<sub>doz</sub> AS.
 ## I. The Era of Alma's Children
 
-The Era of Alma's Children is the first era of [[Umm/Lore/Umm\|Ümm]]. It features the birth of the Mights, the world's God equivalents, and the playing out of their creators, the [[Umm/Lore/All-Makers\|All-Makers]].
+The Era of Alma's Children is the first era of [[Umm/Lore/Umm\|Ümm]]. It features the birth of the Mights, the world's God equivalents, and the playing out of their creators, the [[Umm/Lore/Deities/All-Makers\|All-Makers]].
 
 **Stories:**
-- [[Umm/Lore/A Bee's Tail\|A Bee's Tail]]
+- [[Umm/Lore/Stories/A Bee's Tail\|A Bee's Tail]]
 ## II. The Era of True Mights
 
 The Era of True Mights is the second era of [[Umm/Lore/Umm\|Ümm]], still existing in prehistory. This era is best understood relic of this era is the mega-dungeon-esc architectural monuments scattered across the realm. No one is sure about the exact reason for their fall, but every one has their own take. 
@@ -23,9 +23,9 @@ The Era of True Mights is the second era of [[Umm/Lore/Umm\|Ümm]], still existi
 Regardless, many of the riches and technology of the [[Umm/Lore/The History of Umm#IV. The Modern Era\|Modern Era]] we're extracted from the mega-dungeons left behind.
 
 **Stories:**
-- [[Umm/Lore/Brovgzar's Basis for Treatises\|Brovgzar's Basis for Treatises]]
-- [[Umm/Lore/Intercepted Letters\|Intercepted Letters]]
-- [[Umm/Lore/Assembly's Rebuke\|Assembly's Rebuke]]
+- [[Umm/Lore/Stories/Brovgzar's Basis for Treatises\|Brovgzar's Basis for Treatises]]
+- [[Umm/Lore/Stories/Intercepted Letters\|Intercepted Letters]]
+- [[Umm/Lore/Stories/Assembly's Rebuke\|Assembly's Rebuke]]
 
 ## III. The Era of the Death Games
 
@@ -36,12 +36,6 @@ At the end of the era, the whole realm united to play a deadly and dramatic game
 ## IV. The Modern Era
 
 The Modern Era begins with nothing but the crumbling walls of the previous two eras. Scholars put its beginning year around 600 BS. It's split into distinct periods: the Seedlings, Foundlings, and Gatelings periods; the Autarunian, Mersuian, and Currandeian period.
-
-1. Small protectorate settlements form across the disparate near-wasteland post Death Games
-2. Given enough time and the help of Guardians and Champions the settlements grow and the world is revitalized
-3. Major early city-states are founded including but not limited to Shoe, Varawae, Fofam, Mountmouth, and Merusia 
-4. Settlements expand across the world to create Stonton, Bigade, Bibb, Delvan
-5. The planar gates open and Weirds fleeing catastrophe in the elemental planes arrive and Elves, Goblins, Satyrs fleeing Elven conquistadores oppression arrive
 ### The Low Modern Periods
 
 The Low Modern Periods all consist of a unifying theme, a lack of unification of [[Umm/Lore/Umm\|Ümm]]. There are no large controlling bodies, and there are no global trade routes or communications.
@@ -59,7 +53,7 @@ The Gatelings Period begins in the year of  132<sub>doz</sub> AS with the arriva
 
 #### iv. The Autarunian Period
 
-The Autarunian Period begins around the year of 200<sub>doz</sub> AS. It is marked by the legendary hero [[Umm/Character Creation/Species/Atalan Autarun\|Yu Autarun]] conquering the [[Umm/Lore/Brimlands\|Brimlands]], defeating the [[Kaevansory\|Kaevansory]] and [[Cult of the Drowned\|Cult of the Drowned]] invaders, and bringing unified peace and trade to all of [[Umm/Lore/Umm\|Ümm]].
+The Autarunian Period begins around the year of 200<sub>doz</sub> AS. It is marked by the legendary hero [[Umm/Character Creation/Species/Atalan Autarun\|Yu Autarun]] conquering the [[Umm/Locations/Brimlands\|Brimlands]], defeating the [[Kaevansory\|Kaevansory]] and [[Cult of the Drowned\|Cult of the Drowned]] invaders, and bringing unified peace and trade to all of [[Umm/Lore/Umm\|Ümm]].
 #### v. The Merusian Period
 
 The Merusian Period starts with the arrival of the Prophet and Academic [[Merus\|Merus]] who brings [[Scrollish Magic\|Scrollish Magic]] to the weakened Eastern realm. Accounts begin of [[Merus\|Merus]] around the year 313<sub>doz</sub> AS and last till around 3W4<sub>doz</sub> AS. During this time, [[Merus\|Merus]] brought scroll books containing straight-forward, consistent, semi-repeatable [[Scrollish Magic\|Scrollish Spells]] to replace the fading rituals of the [[Wan-Jer\|Wan-Jer]]. 

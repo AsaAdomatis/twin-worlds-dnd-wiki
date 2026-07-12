@@ -8,7 +8,7 @@
 
 The [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]] and the greater continent of Pan is a campaign setting designed around whimsy. Its inspiration is primarily taken from Adventure Time and Studio Ghibli. The major cities of [[Umm/Locations/Pan the Grand Continent\|Pan]] are built upon the ruins of prehistoric civilizations and the magic of the world is small and metered, but is beginning to be fully tapped. 
 
-Right now, we're in the clean year of 471<sub>doz</sub> AS.
+Right now, we're in the clean year of 471<sub>doz</sub> AS. You can find an abbreviated history [[Umm/Lore/The History of Umm\|here]].
 
 ![North Umm.png](/img/user/Images/North%20Umm.png)
 
