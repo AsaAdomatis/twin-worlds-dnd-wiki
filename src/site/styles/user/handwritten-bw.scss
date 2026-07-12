@@ -1,0 +1,217 @@
+/* ============================================================
+   Handwritten Black & White theme for Obsidian Digital Garden
+   Drop this file into: src/site/styles/user/handwritten-bw.scss
+   in your Digital Garden GitHub repo. It is auto-loaded last,
+   so it overrides the base theme automatically.
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Caveat:wght@600;700&display=swap');
+
+:root {
+  /* ---- Core Obsidian variables the template inherits ---- */
+  --background-primary: #ffffff;
+  --background-primary-alt: #ffffff;
+  --background-secondary: #f4f4f4;
+  --background-secondary-alt: #eeeeee;
+  --background-modifier-border: #000000;
+  --background-modifier-box-shadow: rgba(0, 0, 0, 0.2);
+
+  --text-normal: #111111;
+  --text-muted: #555555;
+  --text-faint: #888888;
+  --text-accent: #000000;
+  --text-accent-hover: #000000;
+  --text-on-accent: #ffffff;
+  --text-error: #000000;
+  --text-selection: #dddddd;
+
+  --interactive-accent: #000000;
+  --interactive-accent-hover: #333333;
+  --interactive-normal: #f0f0f0;
+  --interactive-hover: #e2e2e2;
+
+  --link-color: #000000;
+  --link-color-hover: #000000;
+  --link-unresolved-color: #999999;
+
+  /* ---- Fonts ---- */
+  --font-text: 'Patrick Hand', 'Comic Sans MS', 'Comic Neue', cursive, sans-serif;
+  --font-interface: 'Patrick Hand', 'Comic Sans MS', 'Comic Neue', cursive, sans-serif;
+  --font-monospace: 'Patrick Hand', 'Comic Sans MS', monospace;
+  --heading-font: 'Caveat', 'Comic Sans MS', cursive;
+
+  /* ---- Digital Garden specific layout vars ---- */
+  --dg-content-max-width: 760px;
+  --dg-content-font-size: 19px;
+  --dg-sidebar-max-width: 380px;
+
+  /* ---- Graph view: force it to pure grayscale too ---- */
+  --graph-main: #000000;
+  --graph-muted: #aaaaaa;
+  --graph-line: #cccccc;
+}
+
+/* ============================================================
+   Global overrides & handwritten texture
+   ============================================================ */
+
+body,
+.markdown-preview-view,
+.content {
+  background-color: var(--background-primary) !important;
+  color: var(--text-normal) !important;
+  font-family: var(--font-text) !important;
+  font-size: var(--dg-content-font-size);
+  line-height: 1.7;
+}
+
+/* Headings use the more expressive handwritten script,
+   with a slight hand-drawn "wobble" via rotation */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font) !important;
+  color: #000000 !important;
+  font-weight: 700;
+  border-bottom: 2px solid #000000;
+  padding-bottom: 0.15em;
+  letter-spacing: 0.5px;
+}
+
+h1 { font-size: 2.6em; transform: rotate(-0.4deg); }
+h2 { font-size: 2em;   transform: rotate(0.3deg); }
+h3 { font-size: 1.5em; transform: rotate(-0.2deg); }
+
+/* Links: underlined, black, no color-coding */
+a,
+.internal-link,
+.external-link {
+  color: #000000 !important;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-underline-offset: 3px;
+}
+a:hover {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+/* Unresolved / broken links stay clearly greyed out */
+.is-unresolved {
+  color: #999999 !important;
+  text-decoration-style: dashed;
+}
+
+/* ============================================================
+   Sketchy hand-drawn borders (cards, callouts, tables, code)
+   ============================================================ */
+
+.callout,
+blockquote,
+table,
+pre,
+code,
+.admonition {
+  border: 2px solid #000000 !important;
+  border-radius: 3px 7px 3px 8px / 8px 3px 9px 3px; /* uneven "hand-drawn" corners */
+  background-color: #fafafa !important;
+  box-shadow: 3px 3px 0px #000000;
+}
+
+blockquote {
+  font-style: italic;
+  padding: 0.6em 1em;
+  margin: 1em 0;
+}
+
+code, pre {
+  color: #000000 !important;
+  background-color: #f0f0f0 !important;
+  font-family: var(--font-monospace) !important;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+table th, table td {
+  border: 1.5px solid #000000 !important;
+  padding: 0.4em 0.7em;
+}
+table th {
+  background-color: #eaeaea !important;
+}
+
+/* Callout title bar */
+.callout-title {
+  font-family: var(--heading-font) !important;
+  font-weight: 700;
+  color: #000000 !important;
+}
+
+/* ============================================================
+   Sidebar / filetree / search / graph — keep it monochrome
+   ============================================================ */
+
+.sidebar,
+.filetree,
+.search-container,
+nav {
+  background-color: var(--background-secondary) !important;
+  color: var(--text-normal) !important;
+  border-right: 2px solid #000000;
+}
+
+.filetree .nav-file-title,
+.filetree .nav-folder-title {
+  font-family: var(--font-text) !important;
+  color: #000000 !important;
+}
+.filetree .nav-file-title.is-active {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+  border-radius: 4px;
+}
+
+/* Graph nodes/edges — pure grayscale, no accent color pulses */
+.graph-view.color-fill,
+.graph-view.color-circle {
+  color: var(--graph-main) !important;
+}
+.graph-view.color-line {
+  color: var(--graph-line) !important;
+}
+.graph-view.color-fill-highlight,
+.graph-view.color-circle-highlight {
+  color: #000000 !important;
+}
+.graph-view.color-arrow {
+  color: #555555 !important;
+}
+
+/* ============================================================
+   Horizontal rule as a hand-drawn squiggle-style divider
+   ============================================================ */
+hr {
+  border: none;
+  border-top: 2px dashed #000000;
+  margin: 2em 0;
+}
+
+/* ============================================================
+   Images: simple black frame, no drop shadows/color casts
+   ============================================================ */
+img {
+  border: 2px solid #000000;
+  padding: 3px;
+  background: #ffffff;
+}
+
+/* ============================================================
+   Scrollbar (webkit) kept minimal/monochrome
+   ============================================================ */
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: #ffffff; }
+::-webkit-scrollbar-thumb {
+  background: #000000;
+  border-radius: 4px;
+}
