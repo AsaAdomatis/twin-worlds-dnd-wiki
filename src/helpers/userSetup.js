@@ -42,6 +42,35 @@ const crypto = require("crypto");
 
 const SECRET_BLOCK_RE = /<!--\s*secret([\s\S]*?)-->([\s\S]*?)<!--\s*endsecret\s*-->/g;
 
+// ------------------------------------------------------------------
+// "private" marker block: completely removes content before the
+// site is ever built, rather than gating it. Unlike "secret" blocks,
+// nothing is shipped to the browser at all -- there is no hidden
+// payload to decode in dev tools, because it never makes it into
+// the rendered HTML in the first place.
+//
+// IMPORTANT CAVEAT: this only strips content from the *built site*.
+// The raw text still lives in your Obsidian note and, once you
+// commit/push, in your GitHub repo (including its history). If that
+// repo is public, the private text is still technically visible
+// there. For anything you don't want to leave your vault at all,
+// prefer Obsidian's own native `%% ... %%` comment syntax instead --
+// Digital Garden strips that *before* publishing, so it never
+// reaches GitHub in the first place. Use `<!--private-->` here for
+// content that's fine to sit in a private repo (or one you don't
+// mind existing in git history) but should never appear on the
+// live site.
+//
+// Usage in Obsidian notes:
+//
+// <!--private-->
+// DM-only reminder, stat block draft, whatever -- never built into
+// the site at all.
+// <!--endprivate-->
+// ------------------------------------------------------------------
+
+const PRIVATE_BLOCK_RE = /<!--\s*private\s*-->[\s\S]*?<!--\s*endprivate\s*-->/g;
+
 function escapeHtml(str) {
   return String(str).replace(/[&<>"']/g, function (c) {
     return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
@@ -106,12 +135,24 @@ function secretBlockCoreRule(state) {
   });
 }
 
+function privateBlockCoreRule(state) {
+  if (state.src.indexOf("<!--private") === -1) return;
+
+  // Replace with a single newline rather than an empty string, so
+  // removing a block doesn't accidentally glue two unrelated
+  // paragraphs together into one.
+  state.src = state.src.replace(PRIVATE_BLOCK_RE, "\n");
+}
+
 function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
   // Feel free to add any plugin you want here instead of /.eleventy.js
 
   // Run right after source-normalization (CRLF -> LF etc.) and before
   // block tokenization, so we can safely rewrite raw source text.
+  // Private stripping runs first so a stray "<!--private-->" can
+  // never accidentally interact with secret-block parsing.
+  md.core.ruler.after("normalize", "private_block", privateBlockCoreRule);
   md.core.ruler.after("normalize", "secret_block", secretBlockCoreRule);
 }
 function userEleventySetup(eleventyConfig) {
