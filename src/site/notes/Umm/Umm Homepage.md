@@ -17,6 +17,11 @@ Right now, we're in the clean year of 471<sub>doz</sub> AS. You can find an abbr
 ![Geographical Map of Pan Hi-Rez.png](/img/user/Images/Geographical%20Map%20of%20Pan%20Hi-Rez.png)
 
 > Above is the old Map of Ümm. While it's generally accurate per region, names and locations will shift slightly.
+
+## Campaigns
+
+- [[Umm/2H Scrollish Serial Killers/Scrollish Serial Killers Homepage\|Scrollish Serial Killers Homepage]]: The hunt for a magical serial as a Magic industrial revolution begins.
+
 ## Organizations
 
 ### Factions and Guilds
@@ -112,3 +117,14 @@ check: succeed on a DC 20 History check
 You did it. Now you *know* the **HISTORY**!
 
 ```
+
+<!--private-->
+Hey asa, this shouldn't appear anywhere!
+<!--endprivate-->
+
+<!--secret
+name: New Secret
+check: DC 20 Persuasion
+-->
+This is where you'd persuade me for info
+<!--endsecret-->
