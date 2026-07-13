@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/lore/brimlands/","tags":["umm","location"]}
+{"dg-publish":true,"permalink":"/umm/locations/brimlands/","tags":["umm","location"]}
 ---
 
 # The Brimlands

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/lore/all-makers/","tags":["umm","lore"]}
+{"dg-publish":true,"permalink":"/umm/lore/deities/all-makers/","tags":["umm","lore"]}
 ---
 
 # Ninígheb, the Many Named Creatorum

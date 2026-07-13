@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/lore/a-bee-s-tail/","tags":["umm","lore"]}
+{"dg-publish":true,"permalink":"/umm/lore/stories/a-bee-s-tail/","tags":["umm","lore"]}
 ---
 
 

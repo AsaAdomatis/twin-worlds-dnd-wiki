@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/lore/intercepted-letters/","tags":["umm","lore"]}
+{"dg-publish":true,"permalink":"/umm/lore/stories/intercepted-letters/","tags":["umm","lore"]}
 ---
 
 # Intercepted Letters

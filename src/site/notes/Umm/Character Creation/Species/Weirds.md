@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/species/weirds/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/species/weirds/","tags":["umm","character-creation"]}
 ---
 
 

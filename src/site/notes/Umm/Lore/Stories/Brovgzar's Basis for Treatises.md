@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/lore/brovgzar-s-basis-for-treatises/","tags":["umm","lore"]}
+{"dg-publish":true,"permalink":"/umm/lore/stories/brovgzar-s-basis-for-treatises/","tags":["umm","lore"]}
 ---
 
 # Brovgzar's Treatises
@@ -12,4 +12,4 @@
 > 
 > To you, the Mutt: Continue investigation as if these monuments possess a doom curse.
 > 
-> - A letter from the esteemed academic of Shoe, [[Umm/Lore/Brovgzar the Barely Blue\|Brovgzar, the Barely Blue]] addressed to [[Umm/Characters/Thomas Dugal Kane\|Thomas Dugal Kane]] explaining the basis of his Treatises, later intercepted by the [[Umm/Lore/Organizations/House of Hurricanes\|House of Hurricanes]]
+> - A letter from the esteemed academic of Shoe, [[Umm/Characters/Brovgzar the Barely Blue\|Brovgzar, the Barely Blue]] addressed to [[Umm/Characters/Thomas Dugal Kane\|Thomas Dugal Kane]] explaining the basis of his Treatises, later intercepted by the [[Umm/Lore/Organizations/House of Hurricanes\|House of Hurricanes]]
