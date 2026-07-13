@@ -39,6 +39,7 @@ None of this required forking or modifying the Digital Garden Obsidian plugin it
 
 **Files:**
 - `src/helpers/userSetup.js` -- `secretBlockCoreRule`, `renderSecretBlock`, `parseSecretMeta`, registered via `md.core.ruler.after("normalize", "secret_block", secretBlockCoreRule)`
+- `src/helpers/anchorUtils.js` -- shared `getAnchorLink`/`getAnchorAttributes`/`resolveWikiLinks` helpers (also used by `.eleventy.js` itself for the main `link` filter, so wiki-link resolution can't drift out of sync between the two)
 - `src/site/scripts/secret-block.js` -- client-side unlock logic (SHA-256 password check via Web Crypto, or a simple reveal button)
 - `src/site/styles/user/secret-block.scss` -- locked/unlocked styling, matches the B&W handwritten theme
 - `src/site/_includes/components/user/common/afterContent/secret-block.njk` -- loads the script on every page
@@ -73,9 +74,19 @@ If both `password` and `check` are given, the check text is shown as a hint abov
 The markers are HTML comments (`<!--secret ... -->` / `<!--endsecret-->`), not a code fence. This matters for two reasons:
 
 1. **Obsidian hides HTML comments in Reading View** -- so the meta line (name/password/check) and the closing marker are simply invisible while reading your own notes. The content between the markers is ordinary, unwrapped markdown, so it displays exactly like the rest of your vault.
-2. **The content is real markdown, not raw fenced text** -- a `secretBlockCoreRule` runs as a markdown-it *core rule*, early in the pipeline (right after source normalization, before block tokenization). It regex-matches `<!--secret...--> body <!--endsecret-->` spans in the raw source and replaces each one with pre-rendered HTML, calling `md.render(body)` using the *same* markdown-it instance -- so every other plugin already configured (wiki-link resolution, embeds, callouts, etc.) still applies to the body. This is what makes links and formatting work correctly both in Obsidian and on the built site.
+2. **The content is real markdown, not raw fenced text** -- a `secretBlockCoreRule` runs as a markdown-it *core rule*, early in the pipeline (right after source normalization, before block tokenization). It regex-matches `<!--secret...--> body <!--endsecret-->` spans in the raw source and replaces each one with pre-rendered HTML, calling `md.render(body)` using the *same* markdown-it instance -- so every other plugin already configured (embeds, callouts, etc.) still applies to the body.
 
 The rendered HTML for the body is base64-encoded and stored in a `data-secret-content` attribute on a locked `<div>`. The password (if any) is **never** embedded in the page -- only its SHA-256 hash is (`data-secret-hash`). `secret-block.js` wires up click/submit handlers: for password mode, it hashes the visitor's input client-side (via `crypto.subtle.digest`) and compares hex digests; on match, it base64-decodes and injects the stored HTML. For check-mode, a plain "reveal" button does the same without any password check.
+
+#### Wiki-links inside secret blocks
+
+`[[Target|Title]]` links are **not** resolved by markdown-it at all in this codebase -- they pass through markdown rendering as plain literal text. The actual conversion to a real `<a>` tag happens afterward, via a Nunjucks template filter (`link`, defined in `.eleventy.js`) that regex-replaces `[[...]]` patterns across the *whole rendered page*, once, after all markdown rendering is done.
+
+That's a problem for secret blocks specifically: their rendered body gets base64-encoded and tucked into a `data-secret-content` attribute *before* that page-level filter ever runs, so by the time the filter scans the page, the literal `[[...]]` text is hidden inside an encoded attribute and never gets converted -- it would otherwise show up literally as `[[Target|Title]]` once decoded and revealed.
+
+The fix: `renderSecretBlock` calls `resolveWikiLinks()` (from `anchorUtils.js` -- the exact same logic as the `link` filter, extracted so both places share one implementation) directly on the rendered body, before base64-encoding it. So links are already fully resolved to real `<a>` tags by the time they're encoded, and just work once revealed.
+
+Note this same underlying issue (page-level filters running after this content is already encoded) would also apply to the `taggify` (`#hashtag`) filter and `hideDataview` filter if you ever use those inside a secret block -- they aren't currently wired up the same way `resolveWikiLinks` is, so hashtags/dataview syntax inside a secret block won't be converted. Not fixed here since it wasn't reported as an issue, but the fix would follow the identical pattern if needed later.
 
 ### Security model -- read before relying on this for real secrets
 
@@ -127,3 +138,4 @@ A markdown-it core rule (same mechanism as `secret` blocks) regex-matches `<!--p
 | `src/site/styles/user/secret-block.scss` | Secret blocks |
 | `src/site/_includes/components/user/common/afterContent/secret-block.njk` | Secret blocks |
 | `src/helpers/userSetup.js` | Secret blocks + Private blocks (markdown-it core rules) |
+| `src/helpers/anchorUtils.js` | Shared wiki-link resolution (used by Secret blocks and by `.eleventy.js`'s main `link` filter) |
