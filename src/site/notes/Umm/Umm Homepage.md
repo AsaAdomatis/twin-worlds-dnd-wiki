@@ -17,6 +17,11 @@ Right now, we're in the clean year of 471<sub>doz</sub> AS. You can find an abbr
 ![Geographical Map of Pan Hi-Rez.png](/img/user/Images/Geographical%20Map%20of%20Pan%20Hi-Rez.png)
 
 > Above is the old Map of Ümm. While it's generally accurate per region, names and locations will shift slightly.
+
+## Campaigns
+
+- [[Umm/2H Scrollish Serial Killers/Scrollish Serial Killers Homepage\|Scrollish Serial Killers Homepage]]: The hunt for a magical serial as a Magic industrial revolution begins.
+
 ## Organizations
 
 ### Factions and Guilds
@@ -96,19 +101,22 @@ The world is generally low tech, with technology only as advanced as it was arou
 
 > *Author's Note:* DON'T USE IF PUBLISHED PLZ!!!! 
 
-```secret
-name: Hidden Links
-password: plzdontplz
----
-- [[General Plan]]
-- [[Compendium of Umm]]
-  
-```
+<!--private-->
+Hey asa, this shouldn't appear anywhere!
+<!--endprivate-->
 
-```secret
-name: Test check secret
-check: succeed on a DC 20 History check
----
-You did it. Now you *know* the **HISTORY**!
+<!--secret
+name: New Secret
+check: DC 20 Persuasion
+-->
+This is where you'd persuade me for info
+- [[Broadlands/Broadlands Homepage\|Broadlands Homepage]] is secret??
+<!--endsecret-->
 
-```
+<!--secret
+name: Password secret
+password: xxx
+-->
+This is where you'd persuade me for info
+- [[Broadlands/Broadlands Homepage\|Broadlands Homepage]] is secret??
+<!--endsecret-->
