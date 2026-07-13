@@ -101,23 +101,6 @@ The world is generally low tech, with technology only as advanced as it was arou
 
 > *Author's Note:* DON'T USE IF PUBLISHED PLZ!!!! 
 
-```secret
-name: Hidden Links
-password: plzdontplz
----
-- [[General Plan]]
-- [[Compendium of Umm]]
-  
-```
-
-```secret
-name: Test check secret
-check: succeed on a DC 20 History check
----
-You did it. Now you *know* the **HISTORY**!
-
-```
-
 <!--private-->
 Hey asa, this shouldn't appear anywhere!
 <!--endprivate-->
@@ -127,4 +110,13 @@ name: New Secret
 check: DC 20 Persuasion
 -->
 This is where you'd persuade me for info
+- [[Broadlands/Broadlands Homepage\|Broadlands Homepage]] is secret??
+<!--endsecret-->
+
+<!--secret
+name: Password secret
+password: xxx
+-->
+This is where you'd persuade me for info
+- [[Broadlands/Broadlands Homepage\|Broadlands Homepage]] is secret??
 <!--endsecret-->
