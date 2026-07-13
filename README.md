@@ -5,6 +5,10 @@ See the README in the plugin repo for information on how to set it up.
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
 
 ---
+## Custom Features
+This garden has custom additions beyond the base template: a handwritten black & white theme, an image pan/zoom lightbox, and password/skill-check-gated `secret` blocks plus fully-stripped `private` blocks for note content. See [`docs/CUSTOMIZATIONS.md`](docs/CUSTOMIZATIONS.md) for full documentation, including the exact Obsidian syntax to use and how each feature works.
+
+---
 ## Docs
 Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
 

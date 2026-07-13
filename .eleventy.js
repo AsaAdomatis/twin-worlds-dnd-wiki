@@ -9,6 +9,7 @@ const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+const { getAnchorLink, getAnchorAttributes } = require("./src/helpers/anchorUtils");
 const {
   userMarkdownSetup,
   userEleventySetup,
@@ -27,71 +28,6 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   Image(src, options);
   let metadata = Image.statsSync(src, options);
   return metadata;
-}
-
-function getAnchorLink(filePath, linkTitle) {
-  const {attributes, innerHTML} = getAnchorAttributes(filePath, linkTitle);
-  return `<a ${Object.keys(attributes).map(key => `${key}="${attributes[key]}"`).join(" ")}>${innerHTML}</a>`;
-}
-
-function getAnchorAttributes(filePath, linkTitle) {
-  let fileName = filePath.replaceAll("&amp;", "&");
-  let header = "";
-  let headerLinkPath = "";
-  if (filePath.includes("#")) {
-    [fileName, header] = filePath.split("#");
-    headerLinkPath = `#${headerToId(header)}`;
-  }
-
-  let noteIcon = process.env.NOTE_ICON_DEFAULT;
-  const title = linkTitle ? linkTitle : fileName;
-  let permalink = `/notes/${slugify(filePath)}`;
-  let deadLink = false;
-  try {
-    const startPath = "./src/site/notes/";
-    let fullPath;
-    if (fileName.endsWith(".md") || fileName.endsWith(".canvas")) {
-      fullPath = `${startPath}${fileName}`;
-    } else {
-      fullPath = `${startPath}${fileName}.md`;
-    }
-    const file = fs.readFileSync(fullPath, "utf8");
-    const frontMatter = matter(file);
-    if (frontMatter.data.permalink) {
-      permalink = frontMatter.data.permalink;
-    }
-    if (
-      frontMatter.data.tags &&
-      frontMatter.data.tags.indexOf("gardenEntry") != -1
-    ) {
-      permalink = "/";
-    }
-    if (frontMatter.data.noteIcon) {
-      noteIcon = frontMatter.data.noteIcon;
-    }
-  } catch {
-    deadLink = true;
-  }
-
-  if (deadLink) {
-    return {
-      attributes: {
-        "class": "internal-link is-unresolved",
-        "href": "/404",
-        "target": "",
-      },
-      innerHTML: title,
-    }
-  }
-  return {
-    attributes: {
-      "class": "internal-link",
-      "target": "",
-      "data-note-icon": noteIcon,
-      "href": `${permalink}${headerLinkPath}`,
-    },
-    innerHTML: title,
-  }
 }
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;

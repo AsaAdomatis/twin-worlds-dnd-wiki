@@ -1,4 +1,5 @@
 const crypto = require("crypto");
+const { resolveWikiLinks } = require("./anchorUtils");
 
 // ------------------------------------------------------------------
 // "secret" marker block: hides content behind a password or a
@@ -97,9 +98,17 @@ function renderSecretBlock(md, rawMeta, rawBody) {
   const hasPassword = password.length > 0;
 
   // Render the body through the *same* markdown-it instance, so every
-  // other plugin in the pipeline (wiki links, embeds, callouts, etc.)
-  // still applies -- this is what makes links work on the site too.
-  const renderedBody = md.render(rawBody.trim());
+  // other plugin in the pipeline (embeds, callouts, etc.) still
+  // applies. Wiki-links, however, are NOT resolved by markdown-it at
+  // all in this codebase -- [[Target|Title]] passes through as plain
+  // text, and only becomes a real <a> via the "link" Nunjucks filter
+  // applied to the *whole page* after markdown rendering finishes.
+  // Since this content gets base64-encoded and tucked into a data
+  // attribute before that filter ever runs, it would never see the
+  // literal "[[...]]" text to convert. So we resolve wiki-links here
+  // explicitly, using the exact same logic as that filter, before
+  // encoding.
+  const renderedBody = resolveWikiLinks(md.render(rawBody.trim()));
   const contentB64 = Buffer.from(renderedBody, "utf8").toString("base64");
   const passwordHash = hasPassword
     ? crypto.createHash("sha256").update(password.trim().toLowerCase()).digest("hex")
@@ -118,7 +127,7 @@ function renderSecretBlock(md, rawMeta, rawBody) {
        <button type="button" class="secret-block-reveal">I succeeded &mdash; reveal</button>`;
 
   return `\n<div class="secret-block" data-secret-mode="${mode}" data-secret-hash="${passwordHash}" data-secret-content="${contentB64}">
-  <div class="secret-block-header">&#128274; ${escapeHtml(name)}</div>
+  <div class="secret-block-header">${escapeHtml(name)}</div>
   <div class="secret-block-locked">
     ${unlockUi}
   </div>
