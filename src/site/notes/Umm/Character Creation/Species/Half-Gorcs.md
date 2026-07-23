@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/species/half-gorcs/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/species/half-gorcs/","tags":["character-creation","umm"]}
 ---
 
+# Half-Gorc: Half as Smart, Half-More as Nice
 
 > The marriage between a Gorc and a Human isn't terribly rare making the Half-Gorc a well-known species. However, the fervent hunger for knowledge of the Gorc is tempered by human blood. Half-Gorcs don't have the thirst of Gorcs, and instead they seek to differentiate themselves from Orcs by trying to be incredibly kind. Half-Gorcs appear all across the Kingdom of Pot, but often accumulate in cities. They have a similar appearance to Half-Orcs except their skin tends more to a sky blue.
 

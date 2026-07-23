@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homebrew-mechanics/class-and-subclasses/conduit/conduit-fighting-style-list-v1/"}
+{"dg-publish":true,"permalink":"/homebrew-mechanics/class-and-subclasses/conduit/conduit-fighting-style-list-v1/","tags":["character-creation"]}
 ---
 
 

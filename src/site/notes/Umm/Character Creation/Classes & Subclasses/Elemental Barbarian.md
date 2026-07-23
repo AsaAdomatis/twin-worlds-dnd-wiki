@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/classes-and-subclasses/elemental-barbarian/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/classes-and-subclasses/elemental-barbarian/","tags":["character-creation","umm"]}
 ---
 
 # Barbarian: Path of the True Elemental
-#subclass #barbarian #weird 
 
 Barbarians who find the Path of the True Elemental realize their inner elemental potential, accessing it to gain abilities beyond the normal capacity of Weirds.
 

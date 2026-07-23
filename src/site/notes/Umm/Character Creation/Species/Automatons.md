@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/species/automatons/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/species/automatons/","tags":["character-creation","umm"]}
 ---
 
 

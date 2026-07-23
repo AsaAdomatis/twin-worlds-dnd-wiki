@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/lore/stories/assembly-s-rebuke/"}
+{"dg-publish":true,"permalink":"/umm/lore/stories/assembly-s-rebuke/","tags":["lore","umm"]}
 ---
 
 # Assembly's Rebuke

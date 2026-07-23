@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/species/enoki/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/species/enoki/","tags":["character-creation","umm"]}
 ---
 
 # Enoki

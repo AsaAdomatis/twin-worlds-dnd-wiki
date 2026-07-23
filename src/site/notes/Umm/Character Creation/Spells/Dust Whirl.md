@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/spells/dust-whirl/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/spells/dust-whirl/","tags":["character-creation"]}
 ---
 
 
 # Dust Whirl
+
 _Transmutation Cantrip_  
 **Casting Time:** 1 action  
 **Range:** 30 feet  

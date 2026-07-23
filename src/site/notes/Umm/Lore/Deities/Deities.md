@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/lore/deities/deities/"}
+{"dg-publish":true,"permalink":"/umm/lore/deities/deities/","tags":["umm","lore"]}
 ---
 
 
@@ -49,4 +49,4 @@ Faiths with locations around Pot that can be visited and joined.
 |                            |                                 |                                                               |            |           |                                                                                                                 |
 
 ## Temples
-Temples with locations around Shoe where tributes can be offered for boons. Most gods can be share the temple of [[Cicebeo\|Cicebeo]] in [[Umm/Locations/Platton\|Platton]]. A few, more popular gods, have temples in the park, or in corners of East Gate and Shady Side.
+Temples with locations around Shoe where tributes can be offered for boons. Most gods can be share the temple of [[Umm/Lore/Deities/Cicebeo\|Cicebeo]] in [[Umm/Locations/Platton\|Platton]]. A few, more popular gods, have temples in the park, or in corners of East Gate and Shady Side.

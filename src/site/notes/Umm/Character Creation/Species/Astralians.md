@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/species/astralians/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/species/astralians/","tags":["character-creation","umm"]}
 ---
 
 # Astralians

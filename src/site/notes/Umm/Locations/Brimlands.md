@@ -4,4 +4,4 @@
 
 # The Brimlands
 
-The area in the mainland of [[Umm/Locations/Pan the Grand Continent\|Pan]] beyond the [[Pot\|Pot]] mountains.
+The area in the mainland of [[Umm/Locations/Pan the Grand Continent\|Pan]] beyond the [[Umm/Locations/Kingdom of Pot\|Pot]] mountains.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/spells/water-whip/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/spells/water-whip/","tags":["character-creation"]}
 ---
 
 

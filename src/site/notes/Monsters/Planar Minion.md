@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/monsters/planar-minion/","tags":["creature","conduit"]}
+{"dg-publish":true,"permalink":"/monsters/planar-minion/","tags":["conduit","monster","character-creation"]}
 ---
 
 ## **Planar Minion**

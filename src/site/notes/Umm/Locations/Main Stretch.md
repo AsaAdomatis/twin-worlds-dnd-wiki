@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/umm/locations/main-stretch/"}
+{"dg-publish":true,"permalink":"/umm/locations/main-stretch/","tags":["location","umm"]}
 ---
 
 # The Main Stretch of Shoe
 ## Scene
 
-A mix of foreign spices, incense, and a hint of sewage hit your nose as cross the precipice of the gate. The city is bustling with all kinds doing all things. A chef here, a vendor there, a knight pushing past a tourist while an urchin steals the tourist's purse. The city is alive with this noise.
-
-You notice the original structure of this ancient citadel. Wide marble rounded towers and white rectangular houses that line the sides of the polished stone street. However, these original structures seems claustrophobic among the houses and shops occupying the free space of the stretch like vines constricting a dying tree. These new buildings fill the cracks in between the old ones, hanging by large ropes from the citadel's towers, and sprouting in the cracks of the old street. A new network of roads and alleys complicates the old citadel's wide street.
-
-To top it off, you notice the wildlife: the cries of hungry chicks nesting in the window of a shop, an orange tabby striding on the roof tops, a rat running off with a piece of a vendors cabbage, a dog following a vagrant around. This is the main stretch. This is the lifeblood of the city.
+> A mix of foreign spices, incense, and a hint of sewage hit your nose as cross the precipice of the gate. The city is bustling with all kinds doing all things. A chef here, a vendor there, a knight pushing past a tourist while an urchin steals the tourist's purse. The city is alive with this noise.
+> 
+> You notice the original structure of this ancient citadel. Wide marble rounded towers and white rectangular houses that line the sides of the polished stone street. However, these original structures seems claustrophobic among the houses and shops occupying the free space of the stretch like vines constricting a dying tree. These new buildings fill the cracks in between the old ones, hanging by large ropes from the citadel's towers, and sprouting in the cracks of the old street. A new network of roads and alleys complicates the old citadel's wide street.
+> 
+> To top it off, you notice the wildlife: the cries of hungry chicks nesting in the window of a shop, an orange tabby striding on the roof tops, a rat running off with a piece of a vendors cabbage, a dog following a vagrant around. This is the main stretch. This is the lifeblood of the city.
 
 ## Inner Locations
 

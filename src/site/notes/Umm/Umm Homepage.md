@@ -6,7 +6,7 @@
 
 >And also the Isle of Pan, the Kingdom of Pot, and the city of Shoe!
 
-The [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]] and the greater continent of Pan is a campaign setting designed around whimsy. Its inspiration is primarily taken from Adventure Time and Studio Ghibli. The major cities of [[Umm/Locations/Pan the Grand Continent\|Pan]] are built upon the ruins of prehistoric civilizations and the magic of the world is small and metered, but is beginning to be fully tapped. 
+The [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]], the [[Umm/Locations/Shoe\|City of Shoe]] and the greater continent of Pan is a campaign setting designed around whimsy. Its inspiration is primarily taken from Adventure Time and Studio Ghibli. The major cities of [[Umm/Locations/Pan the Grand Continent\|Pan]] are built upon the ruins of prehistoric civilizations and the magic of the world is small and metered, but is beginning to be fully tapped. 
 
 Right now, we're in the clean year of 471<sub>doz</sub> AS. You can find an abbreviated history [[Umm/Lore/The History of Umm\|here]].
 
@@ -19,6 +19,8 @@ Right now, we're in the clean year of 471<sub>doz</sub> AS. You can find an abbr
 > Above is the old Map of Ümm. While it's generally accurate per region, names and locations will shift slightly.
 
 ## Campaigns
+
+> Using these links for recaps of sessions and info about NPCs, factions, quests, and the world!
 
 - [[Umm/2H Scrollish Serial Killers/Scrollish Serial Killers Homepage\|Scrollish Serial Killers Homepage]]: The hunt for a magical serial as a Magic industrial revolution begins.
 
@@ -92,7 +94,7 @@ The world is generally low tech, with technology only as advanced as it was arou
 - [[Umm/Character Creation/Species/Species Index\|Races/Species/Lineage]]
 - [[Umm/Character Creation/Backgrounds/Background Index\|Backgrounds]]
 - [[Homebrew Mechanics/Class & Subclasses/Class & Subclass Index\|Classes & Subclasses]]
-- [[Loot/Guns\|Guns]]
+- [[Loot/Guns of Umm Archived\|Guns of Umm Archived]]
 ### Locations
 
 - [[Umm/Locations/Abyssal City\|Abyssal City]]
@@ -100,23 +102,3 @@ The world is generally low tech, with technology only as advanced as it was arou
 ### Illegal Links 
 
 > *Author's Note:* DON'T USE IF PUBLISHED PLZ!!!! 
-
-<!--private-->
-Hey asa, this shouldn't appear anywhere!
-<!--endprivate-->
-
-<!--secret
-name: New Secret
-check: DC 20 Persuasion
--->
-This is where you'd persuade me for info
-- [[Broadlands/Broadlands Homepage\|Broadlands Homepage]] is secret??
-<!--endsecret-->
-
-<!--secret
-name: Password secret
-password: xxx
--->
-This is where you'd persuade me for info
-- [[Broadlands/Broadlands Homepage\|Broadlands Homepage]] is secret??
-<!--endsecret-->

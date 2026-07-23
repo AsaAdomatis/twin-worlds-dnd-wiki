@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/classes-and-subclasses/scavenger-rogue/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/classes-and-subclasses/scavenger-rogue/","tags":["character-creation","umm"]}
 ---
 
 # Rogue: Scavenger Archetype
-#class #rogue #subclass #untested
 
 <- [[Homebrew Mechanics/Class & Subclasses/Class & Subclass Index\|Class & Subclass Index]]
 
 The skillset of a rogue lines up quite nicely with that of the scavenger, a daring adventurer searching through ancient ruins for great treasure of old. Scavengers have the skills to survive these ancient and arcane ruins and the skills to sell what's inside them.
 
 ## Level 3: Scavenger Origin
-_Every scavenger has an origin, an ancient ruin in which they honed their skills. In the Kingdom of Pot, four primary ruins exists: The [[Umm/Locations/Abyssal City\|Abyssal City]], an ancient spiraling citadel deep under the Bay of Pot; [[Umm/Locations/Plastic City\|The Plastic City]], an expansive walled city atop a cliff over [[Umm/Locations/Shoe\|Shoe]]; The [[Forest of Giant Things\|Forest of Giant Things]], an mythical forest of towering flora and fauna; and finally, the [[Mines of Mountmouth\|Mines of Mountmouth]], a prehistoric complex of mines and town built by ancient dwarves. Each ruin lends itself to a specific skillset._
+
+> Every scavenger has an origin, an ancient ruin in which they honed their skills. In the Kingdom of Pot, four primary ruins exists: The [[Umm/Locations/Abyssal City\|Abyssal City]], an ancient spiraling citadel deep under the Bay of Pot; [[Umm/Locations/Plastic City\|The Plastic City]], an expansive walled city atop a cliff over [[Umm/Locations/Shoe\|Shoe]]; The [[Forest of Giant Things\|Forest of Giant Things]], an mythical forest of towering flora and fauna; and finally, the [[Mines of Mountmouth\|Mines of Mountmouth]], a prehistoric complex of mines and town built by ancient dwarves. Each ruin lends itself to a specific skillset.
 
 At 3rd level, you select one of the following origins and gain features based on that origin:
 - **_The Plastic City:_**
@@ -38,7 +38,8 @@ At 3rd level, you select one of the following origins and gain features based on
 		- If you already have darkvision or better, its range increases by 60ft.
 
 ## Level 3: Expert Improviser
-*In the ruins, things often you by surprise. And when they do you're going to need to be able to improvise. So you've learned to use what you can as well as you can use a dagger.*
+
+>In the ruins, things often you by surprise. And when they do you're going to need to be able to improvise. So you've learned to use what you can as well as you can use a dagger.
 
 At 3rd level, you gain the following traits:
 - You gain proficiency in improvised weapons. 
@@ -47,7 +48,8 @@ At 3rd level, you gain the following traits:
 - Regardless of you action on a turn, you may use your bonus action to make an attack (melee or ranged) with an improvised weapon with the light property. You do not add your ability modifier to the damage of this attack.    
 
 ## Level 9: Loot Sense
-*The goal of every scavenger is to profit, and in order to profit, you need to know what's profitable. Your trained eyes can see the glimmer of riches, and your trained nose can sniff them out.*
+
+>The goal of every scavenger is to profit, and in order to profit, you need to know what's profitable. Your trained eyes can see the glimmer of riches, and your trained nose can sniff them out.
 
 At 9th level, you gain the ability to inherently detect loot:
 - Items of worth (>1sp) have a glimmering aura detectable to you:
@@ -63,7 +65,8 @@ At 9th level, you gain the ability to inherently detect loot:
 - You know the exact price (within reasonability or $\pm 10\%$) of any item you can touch.
 
 ## Level 9: Haggle Sense
-*To be a successful scavenger, you also need to be a successful merchant.*
+
+> To be a successful scavenger, you also need to be a successful merchant.
 
 At 9th level, you gain the ability to haggle extremely well manifested in the following features:
 - You always know where to sell an item or know how to find out how. If you don't know where to sell an item already, you may spend 2 hours gathering source to discover where you could sell an item.
@@ -71,13 +74,15 @@ At 9th level, you gain the ability to haggle extremely well manifested in the fo
 	- (Optional) At your DM's discretion, you may instead discount all items by 20% when purchasing items and increase the selling price of all items sold by this character by 20%.
 
 ## Level 13:  Arcane Safeguard
-*Your exposure to the ancient and arcane ruins of your scavenging origin has left a mark on your soul, but also made it stronger.*
+
+> Your exposure to the ancient and arcane ruins of your scavenging origin has left a mark on your soul, but also made it stronger.
 
 Starting at 13 level, **once per short or long rest**, when you are subjected to a spell or magical effect that requires you to make a saving throw, you can choose to **automatically succeed** instead.
 
 You must use this feature before rolling the saving throw.
 
 ## Level 17: Deadly Improviser
-*Your flexibility and adaptability required for scavenging has reached its apex. You can use your surroundings better than any weapon*
+
+> Your flexibility and adaptability required for scavenging has reached its apex. You can use your surroundings better than any weapon
 
 Starting at 17th level,  **once per short or long rest**, whenever you make an attack with an improvised weapon, you can make one additional attack using an improvised weapon. You have advantage on that attack.

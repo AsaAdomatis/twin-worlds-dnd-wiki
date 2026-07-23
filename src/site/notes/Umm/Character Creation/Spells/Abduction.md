@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/spells/abduction/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/spells/abduction/","tags":["character-creation","umm"]}
 ---
 
 
