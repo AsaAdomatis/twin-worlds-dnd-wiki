@@ -9,7 +9,7 @@
 For most consumers, the history is now through stories. Some of these are documented below and divided amongst each era. 
 
 **Currently:**
-- **Year:** 471<sub>doz</sub> AS.
+- **Year:** 464<sub>doz</sub> AS.
 ## I. The Era of Alma's Children
 
 The Era of Alma's Children is the first era of [[Umm/Lore/Umm\|Ümm]]. It features the birth of the Mights, the world's God equivalents, and the playing out of their creators, the [[Umm/Lore/Deities/All-Makers\|All-Makers]].
@@ -56,16 +56,16 @@ The Gatelings Period begins in the year of  132<sub>doz</sub> AS with the arriva
 The Autarunian Period begins around the year of 200<sub>doz</sub> AS. It is marked by the legendary hero [[Umm/Character Creation/Species/Atalan Autarun\|Yu Autarun]] conquering the [[Umm/Locations/Brimlands\|Brimlands]], defeating the [[Kaevansory\|Kaevansory]] and [[Cult of the Drowned\|Cult of the Drowned]] invaders, and bringing unified peace and trade to all of [[Umm/Lore/Umm\|Ümm]].
 #### v. The Merusian Period
 
-The Merusian Period starts with the arrival of the Prophet and Academic [[Merus\|Merus]] who brings [[Scrollish Magic\|Scrollish Magic]] to the weakened Eastern realm. Accounts begin of [[Merus\|Merus]] around the year 313<sub>doz</sub> AS and last till around 3W4<sub>doz</sub> AS. During this time, [[Merus\|Merus]] brought scroll books containing straight-forward, consistent, semi-repeatable [[Scrollish Magic\|Scrollish Spells]] to replace the fading rituals of the [[Wan-Jer\|Wan-Jer]]. 
+The Merusian Period starts with the arrival of the Prophet and Academic [[Umm/Locations/Merus\|Merus]] who brings [[Scrollish Magic\|Scrollish Magic]] to the weakened Eastern realm. Accounts begin of [[Umm/Locations/Merus\|Merus]] around the year 313<sub>doz</sub> AS and last till around 3W4<sub>doz</sub> AS. During this time, [[Umm/Locations/Merus\|Merus]] brought scroll books containing straight-forward, consistent, semi-repeatable [[Scrollish Magic\|Scrollish Spells]] to replace the fading rituals of the [[Wan-Jer\|Wan-Jer]]. 
 
 This new magic was crucial to fend of the increasing [[Cult of the Drowned\|Cult of the Drowned]] influence in the regions, and its break-off sect that began raids during this time.
 
 #### vi. The Currandeian Period
 
-The Currandeian begins around 420<sub>doz</sub> AS, about 30 years after the death of [[Merus\|Merus]]. Its early portion is marked by an increased in military technology, persecution, and eventually war amongst [[Umm/Lore/Umm\|Ummians]] themselves. Its latter portion, where our current day of 471<sub>doz</sub> AS lies, is marked by a realm-wide trade-laws and a cohesive [[Autarunian Council\|Autarunian Council]] allowing the development of [[Scrollish Magic\|Scrollish Theorems]] and bringing the realm to the cusp of a industrial revolution.
+The Currandeian begins around 420<sub>doz</sub> AS, about 30 years after the death of [[Umm/Locations/Merus\|Merus]]. Its early portion is marked by an increased in military technology, persecution, and eventually war amongst [[Umm/Lore/Umm\|Ummians]] themselves. Its latter portion, where our current day of 471<sub>doz</sub> AS lies, is marked by a realm-wide trade-laws and a cohesive [[Autarunian Council\|Autarunian Council]] allowing the development of [[Scrollish Magic\|Scrollish Theorems]] and bringing the realm to the cusp of a industrial revolution.
 ##### A. War - 423<sub>doz</sub> AS
 
-Using [[Kaevansory\|Kaevansory]] gunpowder as blueprint, [[Merusia\|Merusian]] artificers create magical [Arquebuses](https://en.wikipedia.org/wiki/Arquebus) which they use to begin the [[Merusian Conquest\|Merusian Conquest]] throughout Eastern [[Umm/Lore/Umm\|Ümm]]. This leads to a chain of inter-state conflict throughout the entire realm.
+Using [[Kaevansory\|Kaevansory]] gunpowder as blueprint, [[Umm/Locations/Merusia\|Merusian]] artificers create magical [Arquebuses](https://en.wikipedia.org/wiki/Arquebus) which they use to begin the [[Umm/Locations/Merusia\|Merusian Conquest]] throughout Eastern [[Umm/Lore/Umm\|Ümm]]. This leads to a chain of inter-state conflict throughout the entire realm.
 
 ##### B. Peace - 447<sub>doz</sub> AS
 

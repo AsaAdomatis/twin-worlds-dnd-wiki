@@ -8,7 +8,7 @@
 
 The [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]], the [[Umm/Locations/Shoe\|City of Shoe]] and the greater continent of Pan is a campaign setting designed around whimsy. Its inspiration is primarily taken from Adventure Time and Studio Ghibli. The major cities of [[Umm/Locations/Pan the Grand Continent\|Pan]] are built upon the ruins of prehistoric civilizations and the magic of the world is small and metered, but is beginning to be fully tapped. 
 
-Right now, we're in the clean year of 471<sub>doz</sub> AS. You can find an abbreviated history [[Umm/Lore/The History of Umm\|here]].
+Right now, we're in the clean year of 464<sub>doz</sub> AS. You can find an abbreviated history [[Umm/Lore/The History of Umm\|here]].
 
 ![North Umm.png](/img/user/Images/North%20Umm.png)
 
@@ -34,10 +34,10 @@ Right now, we're in the clean year of 471<sub>doz</sub> AS. You can find an abbr
 
 #### The Mission of Merus
 
-[[Mission of Merus\|Mission of Merus]]: The newest of the three core faiths, the Mission of Merus focuses on outreach, education, and innovation through magic. It is practiced mainly in the east where its founder [[Merus\|Merus]] created the first spell book and shared his psuedo-cantrips throughout the lands.
+[[Mission of Merus\|Mission of Merus]]: The newest of the three core faiths, the Mission of Merus focuses on outreach, education, and innovation through magic. It is practiced mainly in the east where its founder [[Umm/Locations/Merus\|Merus]] created the first spell book and shared his psuedo-cantrips throughout the lands.
 - [[Protoatong\|Protoatong]]: The primary denomination of the [[Mission of Merus\|Mission]] which believes in universal education as a way to peace. Their temples are closer to libraries than churches.
-- [[Gnomer\|Gnomer]]: A denomination of the [[Mission of Merus\|Mission]] that focuses on personal knowledge and enlightenment. Followers create their own books of truths and spells modeled of [[Merus\|Merus]]' own rejecting all other knowledge until they have confirmed it for themselves.
-- [[Nailian Orthodox\|Nailian Orthodox]]: A denomination in the east of [[Nailia\|Nailia]] that believes [[Merus\|Merus]] began as a Nailian before heading East, and before he vanished, returned with a second and more advanced spell book which he sealed in a tomb hidden deep in the [[Nailia\|Nailian]] dunes.
+- [[Gnomer\|Gnomer]]: A denomination of the [[Mission of Merus\|Mission]] that focuses on personal knowledge and enlightenment. Followers create their own books of truths and spells modeled of [[Umm/Locations/Merus\|Merus]]' own rejecting all other knowledge until they have confirmed it for themselves.
+- [[Nailian Orthodox\|Nailian Orthodox]]: A denomination in the east of [[Nailia\|Nailia]] that believes [[Umm/Locations/Merus\|Merus]] began as a Nailian before heading East, and before he vanished, returned with a second and more advanced spell book which he sealed in a tomb hidden deep in the [[Nailia\|Nailian]] dunes.
 
 #### The Old Hope
 
@@ -70,7 +70,7 @@ Mishan magic is Divine magic channeled by the devout. Once thought to be powerfu
 
 ### Scrollish Magic
 
-Invented by [[Merus\|Merus]] in 313<sub>doz</sub> AS but currently expanding under [[Freland\|Freland]] magicians, wizards, and artificers, [[Scrollish Magic\|Scrollish Magic]] offers a consistent way to cast more complex spells which could massively decrease labor across all industries. However, creating new spell bits is labor intensive requiring groups of specialist working with hundreds of laborers.
+Invented by [[Umm/Locations/Merus\|Merus]] in 313<sub>doz</sub> AS but currently expanding under [[Freland\|Freland]] magicians, wizards, and artificers, [[Scrollish Magic\|Scrollish Magic]] offers a consistent way to cast more complex spells which could massively decrease labor across all industries. However, creating new spell bits is labor intensive requiring groups of specialist working with hundreds of laborers.
 
 ## Culture
 

@@ -6,7 +6,7 @@
 
 # Firearms/Guns
 
-Guns come in two types for Pot campaigns, the magically powered runetech guns and black powder guns. Across all the lands of Pan, guns are rare. Black powder guns are a recent and poorly understood invention. Only a few artisans across the land can make a black powder weapon, and even less can make a half-decent one.  Similarly, runetech weapons are difficult to find, but for other reasons. Simple runetech weapons were invented by the [[Merusia\|Merusians]] during their [[Merusian Conquest\|conquest]] in the earlier modern era. They proved so dominant in the early stages of war, that the [[Umm/Lore/Flora & Fauna/Animalapilanimite\|Animalapilanimite]] mines, the core power source of runetech, were destroyed and all weapons seized and stored.
+Guns come in two types for Pot campaigns, the magically powered runetech guns and black powder guns. Across all the lands of Pan, guns are rare. Black powder guns are a recent and poorly understood invention. Only a few artisans across the land can make a black powder weapon, and even less can make a half-decent one.  Similarly, runetech weapons are difficult to find, but for other reasons. Simple runetech weapons were invented by the [[Umm/Locations/Merusia\|Merusians]] during their [[Merusian Conquest\|conquest]] in the earlier modern era. They proved so dominant in the early stages of war, that the [[Umm/Lore/Flora & Fauna/Animalapilanimite\|Animalapilanimite]] mines, the core power source of runetech, were destroyed and all weapons seized and stored.
 
 In the Kingdom of Pot, [[The Mutt\|The Mutt]] is currently working to deregulate firearms and bring the to commoner as a way to combat the ever increasing crime in Shoe.
 ## Weapon Properties

@@ -28,7 +28,7 @@ Unfinished...
 
 ### Humans
 
-[[Umm/Character Creation/Species/Humans of Umm\|Humans]] live primarily on the Eastern Coast of Pot in the Nations of [[Merusia\|Merusia]], [[Freland\|Freland]], [[Franklin\|Franklin]], and [[Merukirk\|Merukirk]] with scattered populations in [[Shaterlan\|Shaterlan]]. They also live in the Southwest on the [[Isle of Man\|Isle of Man]].
+[[Umm/Character Creation/Species/Humans of Umm\|Humans]] live primarily on the Eastern Coast of Pot in the Nations of [[Umm/Locations/Merusia\|Merusia]], [[Freland\|Freland]], [[Franklin\|Franklin]], and [[Merukirk\|Merukirk]] with scattered populations in [[Shaterlan\|Shaterlan]]. They also live in the Southwest on the [[Isle of Man\|Isle of Man]].
 
 [[Umm/Character Creation/Species/Orcs of Pot\|Orcs]]: Orcs are split have three main groups Worcs, Gorcs, and Morcs, but there are many other smaller clans with similar names. Worcs are strong and sturdy with gray skin and square, blocky features. Gorcs are intelligent and devoted and with blue skin and classical Orc features, and Morcs are spiritual and empathetic with orange skin and elephant-like features.
 

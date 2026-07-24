@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/umm/character-creation/species/goozers/"}
+{"dg-publish":true,"permalink":"/umm/character-creation/species/goozers/","tags":["character-creation","umm"]}
 ---
 
+# Goozers
+
+> Gooey pals, slimy gals, and straight up cubes
 
 ### Physical Description
 

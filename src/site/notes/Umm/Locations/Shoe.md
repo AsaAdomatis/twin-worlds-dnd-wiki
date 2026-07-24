@@ -61,7 +61,7 @@ First players pass by the outer fields of the city. Past the fields of golden wh
 
 - [[Felling Festival\|Felling Festival]] - A festival celebrating the fall of [[Opelanon\|Opelanon]] and the accomplishments of the greater unifier [[Umm/Character Creation/Species/Atalan Autarun\|Atalan Autarun]].
 - [[Barrelsmash Day\|Barrelsmash Day]] - A festival dedicated to smashing old barrel's to prevent a barrel goblin infestation
-- [[The Grand Vinali Festival\|The Grand Vinali Festival]] - A week long festival leading up to the [[Grand Vinali\|Grand Vinali]] 
+- [[Grand Vinali\|The Grand Vinali Festival]] - A week long festival leading up to the [[Grand Vinali\|Grand Vinali]] 
 - [[Founder's Day\|Founder's Day]] - A day to celebrate the founding of the city and its found [[Zapadoa Shoe\|Zapadoa Shoe]]
 - [[Harvest Festival\|Harvest Festival]] - 
 

@@ -7,7 +7,7 @@
 
 - [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]]
 - [[Shaterlan\|Shaterlan]]
-- [[Merusia\|Merusia]]
+- [[Umm/Locations/Merusia\|Merusia]]
 - [[Goldpan\|Goldpan]]
 - [[Nailia\|Nailia]]
 - [[Stonton\|Stonton]]

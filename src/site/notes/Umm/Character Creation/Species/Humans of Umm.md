@@ -11,7 +11,7 @@ Humans look like humans, but your nationality gives you additional options.
 
 **Nationality:**
 - Shaterfolk ([[Shaterlan\|Shaterlan]]) -> Your eyes and ears are larger, you skin is paler. Your eyes can be a faded lime green, pink, or lavender, and these colors can be worked into a slight gleam on your skin as well.
-- Merusian ([[Merusia\|Merusia]]) -> Your ears a slightly pointed like a half-elf and you may have brown-orange eyes.
+- Merusian ([[Umm/Locations/Merusia\|Merusia]]) -> Your ears a slightly pointed like a half-elf and you may have brown-orange eyes.
 - Autarunian ([[Isle of Man\|Isle of Man]]) -> You may have gold eyes and deep crimson hair.
 
 ### Culture
@@ -39,7 +39,7 @@ Previous centuries of subjugation and enslavement in the caves and shadows of th
 
 ### Merusia
 
-[[Merusia\|Merusians]] live on the outskirts of [[Shaterlan\|Shaterlan]], free from Drow subjugation but not Drow rule. They were the first of any species, including humans, to be taught mechanical magic by the great wizard [[Merus\|Merus]] giving them much pride. But, this hubris has led to much conflict within the last centuries.
+[[Umm/Locations/Merusia\|Merusians]] live on the outskirts of [[Shaterlan\|Shaterlan]], free from Drow subjugation but not Drow rule. They were the first of any species, including humans, to be taught mechanical magic by the great wizard [[Umm/Locations/Merus\|Merus]] giving them much pride. But, this hubris has led to much conflict within the last centuries.
 - **Ability Score Increase.**  Your Intelligence score increases by 2 and you Dexterity score increase by 1.
 - **Original Expertise.** You have proficiency in Arcana. 
 - **Languages.** You can speak, read, and write Common and one extra language of your choice.
