@@ -95,9 +95,7 @@ The world is generally low tech, with technology only as advanced as it was arou
 - [[Umm/Character Creation/Backgrounds/Background Index\|Backgrounds]]
 - [[Homebrew Mechanics/Class & Subclasses/Class & Subclass Index\|Classes & Subclasses]]
 - [[Loot/Guns of Umm Archived\|Guns of Umm Archived]]
-### Locations
-
-- [[Umm/Locations/Abyssal City\|Abyssal City]]
+- [[Umm/Locations/Umm Locations Index\|Umm Locations Index]]
 
 ### Illegal Links 
 

@@ -24,7 +24,7 @@ These organizations in Shoe have sway over local life and politics and are likel
 
 #### Entering from the Southern Entrance
 
-First players pass by the outer fields of the city. Past the fields of golden wheat they see the tall cobble walls of the outer wall of Shoe. Open wooden doors guarded by a few guards chilling outside a short guard tower. Past the fair wooden gates lies the southernmost outer ward of the city. A quaint neighborhood, there are a few houses that are disconnected with gated yards, some houses and shops all connected up, wide streets with trees and other greenery. This part of the city is colorful and cheerful. There's a sense of business in the air the air but not stress. This is a middle class neighborhood. The cobble street winds gently till it stops before a lightly cracked tan marble set of steps that lead up into the grand entrance of the inner city. The walls of the inner city are extremely tall, 50ft, and made of large marble bricks. They covered in lime green and dark olive vines with pink blossoms. The walls are classic massive fantasy walls. The gate is huge and ornately carved but eroded down so much it's hard to tell exactly what it is. Two massive shield guardians guard the gate, but don't look like they moved in centuries. Past the gates, you enter the stretch, the main hub of life in Shoe.
+> First players pass by the outer fields of the city. Past the fields of golden wheat they see the tall cobble walls of the outer wall of Shoe. Open wooden doors guarded by a few guards chilling outside a short guard tower. Past the fair wooden gates lies the southernmost outer ward of the city. A quaint neighborhood, there are a few houses that are disconnected with gated yards, some houses and shops all connected up, wide streets with trees and other greenery. This part of the city is colorful and cheerful. There's a sense of business in the air the air but not stress. This is a middle class neighborhood. The cobble street winds gently till it stops before a lightly cracked tan marble set of steps that lead up into the grand entrance of the inner city. The walls of the inner city are extremely tall, 50ft, and made of large marble bricks. They covered in lime green and dark olive vines with pink blossoms. The walls are classic massive fantasy walls. The gate is huge and ornately carved but eroded down so much it's hard to tell exactly what it is. Two massive shield guardians guard the gate, but don't look like they moved in centuries. Past the gates, you enter the stretch, the main hub of life in Shoe.
 
 - [[Umm/Locations/Main Stretch\|Main Stretch]]
 - [[Umm/Locations/Park of Shoe\|Park of Shoe]]
@@ -61,15 +61,17 @@ First players pass by the outer fields of the city. Past the fields of golden wh
 
 - [[Felling Festival\|Felling Festival]] - A festival celebrating the fall of [[Opelanon\|Opelanon]] and the accomplishments of the greater unifier [[Umm/Character Creation/Species/Atalan Autarun\|Atalan Autarun]].
 - [[Barrelsmash Day\|Barrelsmash Day]] - A festival dedicated to smashing old barrel's to prevent a barrel goblin infestation
-- [[Grand Vinali\|The Grand Vinali Festival]] - A week long festival leading up to the [[Grand Vinali\|Grand Vinali]] 
+- [[Umm/Lore/Grand Vinali\|The Grand Vinali Festival]] - A week long festival leading up to the [[Umm/Lore/Grand Vinali\|Grand Vinali]] 
 - [[Founder's Day\|Founder's Day]] - A day to celebrate the founding of the city and its found [[Zapadoa Shoe\|Zapadoa Shoe]]
 - [[Harvest Festival\|Harvest Festival]] - 
 
 ## Weather & Time
 
-Weather in Shoe consists of 4 seasons: dry, drag, drenched, dreg. On the final day of each season cycle is 1-4 days of interesting weather called the [[Grand Vinali\|Grand Vinali]]. The weather is said to be an omen of the year to come.
+Weather in Shoe consists of 4 seasons: dry, drag, drenched, dreg. On the final day of each season cycle is 1-4 days of interesting weather called the [[Umm/Lore/Grand Vinali\|Grand Vinali]]. The weather is said to be an omen of the year to come.
 
-Years are 251-254 days long with the dry and drenched seasons being about 100-120 days long and the drag and dreg seasons being 5-20 days long. The year is officially considered over when the last weather [[Grand Vinali\|Grand Vinali]] weather ceases.
+Years are 251-254 days long with the dry and drenched seasons being about 100-120 days long and the drag and dreg seasons being 5-20 days long. The year is officially considered over when the last weather [[Umm/Lore/Grand Vinali\|Grand Vinali]] weather ceases.
+
+<!--private-->
 
 | Season   | Roll(2d6) | Result             |
 | -------- | --------- | ------------------ |
@@ -110,6 +112,7 @@ Years are 251-254 days long with the dry and drenched seasons being about 100-12
 | Grand Vinali | 11               | An explosive thunderstorm                                                                                                                                                          |
 | Grand Vinali | 12               | A violent thunderstorm with whipping winds, torrential downpours, and flash floods                                                                                                 |
 | Grand Vinali | 1d4 Result       | Number of days it lasts                                                                                                                                                            |
+<!--endprivate-->
 
 <!--private-->
 # History (WIP)

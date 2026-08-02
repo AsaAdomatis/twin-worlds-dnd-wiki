@@ -11,3 +11,10 @@
 -  🏰🐲 [[Broadlands/Broadlands Homepage\|Cycles of the Broadlands]]
 -  🥘🌁 [[Umm/Umm Homepage\|Ümm, the Wonderful]]
 
+<!--private-->
+
+## Worldbuilding Notes
+
+- [[Worldbuilding Notes/Climate Shortcuts\|Climate Shortcuts]]
+
+<!--endprivate-->
