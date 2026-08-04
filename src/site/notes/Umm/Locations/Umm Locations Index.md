@@ -36,6 +36,16 @@ Right now all I've got for you are [Blood Run](https://en.wikipedia.org/wiki/Blo
 
 <!--endsecret-->
 
+### Central Decidious Forests
+
+#### Moist Decidious
+
+Inner contenintal coastal area of the lower portion of the continent. Think somewhat jungle and tropical rainforest
+
+#### Dry Decidious
+
+Inner continental central area of the lower continent. Think parkland
+
 <!--private-->
 # Major Regions
 
