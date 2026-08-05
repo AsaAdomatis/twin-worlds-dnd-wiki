@@ -10,13 +10,17 @@ The [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]], the [[Umm/Locations/Shoe\|
 
 Right now, we're in the clean year of 464<sub>doz</sub> AS. You can find an abbreviated history [[Umm/Lore/The History of Umm\|here]].
 
-![Political Northern Umm.png](/img/user/Umm/Maps/Political%20Northern%20Umm.png)
+![Umm the Greater Realm.png](/img/user/Umm/Maps/Umm%20the%20Greater%20Realm.png)
 
-> Above is the modern WIP Map of Ümm. This area is the Northern region.
+> Above is the work in progress map of Ümm!
+
+<!--private-->
 
 ![Geographical Map of Pan Hi-Rez.png](/img/user/Images/Geographical%20Map%20of%20Pan%20Hi-Rez.png)
 
 > Above is the old Map of Ümm. While it's generally accurate per region, names and locations will shift slightly.
+
+<!--endprivate-->
 
 ## Campaigns
 
