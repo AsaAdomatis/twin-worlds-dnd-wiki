@@ -48,21 +48,21 @@ The Seedlings Period begins around 700<sub>doz</sub> BS. It features small, disp
 The Foundlings Period begins in 0<sub>doz</sub> AS with the founding of the [[Umm/Locations/Shoe\|City of Shoe]] by [[Zapadoa Shoe\|Zapadoa Shoe]]. It's primarily marked by the expansion and growth of settlements into true city states, most of which are placed in ruins of the mega dungeons from the [[Umm/Lore/The History of Umm#II. The Era of True Mights\|Era of True Mights]]. Additionally, this growth is underscored by the proliferation of [[Wan-Jer\|Wan-Jer]] folk magic throughout [[Umm/Lore/Umm\|Ümm]]. 
 #### iii. The Gatelings Period
 
-The Gatelings Period begins in the year of  132<sub>doz</sub> AS with the arrival of the first [[Faery\|Faery]] ship, the [[Paeragreny\|Paeragreny]] to the North Western shores of [[Umm/Locations/Kingdom of Pot\|Pot]]. What ensues is a series of trade, pilgrimages, immigration, and warfare caused by the gates of the [[Astral Sea\|Astral Sea]] opening and the arrival of the [[Kaevansory\|Kaevansory]] and the [[Cult of the Drowned\|Cult of the Drowned]].
+The Gatelings Period begins in the year of  132<sub>doz</sub> AS with the arrival of the first [[Faery\|Faery]] ship, the [[Paeragreny\|Paeragreny]] to the North Western shores of [[Umm/Locations/Kingdom of Pot\|Pot]]. What ensues is a series of trade, pilgrimages, immigration, and warfare caused by the gates of the [[Astral Sea\|Astral Sea]] opening and the arrival of the [[Kaevansory\|Kaevansory]] and the [[Umm/Cult of the Drowned\|Cult of the Drowned]].
 ### The High Modern Periods
 
 #### iv. The Autarunian Period
 
-The Autarunian Period begins around the year of 200<sub>doz</sub> AS. It is marked by the legendary hero [[Umm/Character Creation/Species/Atalan Autarun\|Yu Autarun]] conquering the [[Umm/Locations/Brimlands\|Brimlands]], defeating the [[Kaevansory\|Kaevansory]] and [[Cult of the Drowned\|Cult of the Drowned]] invaders, and bringing unified peace and trade to all of [[Umm/Lore/Umm\|Ümm]].
+The Autarunian Period begins around the year of 200<sub>doz</sub> AS. It is marked by the legendary hero [[Umm/Character Creation/Species/Atalan Autarun\|Yu Autarun]] conquering the [[Umm/Locations/Brimlands\|Brimlands]], defeating the [[Kaevansory\|Kaevansory]] and [[Umm/Cult of the Drowned\|Cult of the Drowned]] invaders, and bringing unified peace and trade to all of [[Umm/Lore/Umm\|Ümm]].
 #### v. The Merusian Period
 
 The Merusian Period starts with the arrival of the Prophet and Academic [[Umm/Locations/Merus\|Merus]] who brings [[Scrollish Magic\|Scrollish Magic]] to the weakened Eastern realm. Accounts begin of [[Umm/Locations/Merus\|Merus]] around the year 313<sub>doz</sub> AS and last till around 3W4<sub>doz</sub> AS. During this time, [[Umm/Locations/Merus\|Merus]] brought scroll books containing straight-forward, consistent, semi-repeatable [[Scrollish Magic\|Scrollish Spells]] to replace the fading rituals of the [[Wan-Jer\|Wan-Jer]]. 
 
-This new magic was crucial to fend of the increasing [[Cult of the Drowned\|Cult of the Drowned]] influence in the regions, and its break-off sect that began raids during this time.
+This new magic was crucial to fend of the increasing [[Umm/Cult of the Drowned\|Cult of the Drowned]] influence in the regions, and its break-off sect that began raids during this time.
 
-#### vi. The Currandeian Period
+#### vi. The Currendian Period
 
-The Currandeian begins around 420<sub>doz</sub> AS, about 30 years after the death of [[Umm/Locations/Merus\|Merus]]. Its early portion is marked by an increased in military technology, persecution, and eventually war amongst [[Umm/Lore/Umm\|Ummians]] themselves. Its latter portion, where our current day of 471<sub>doz</sub> AS lies, is marked by a realm-wide trade-laws and a cohesive [[Autarunian Council\|Autarunian Council]] allowing the development of [[Scrollish Magic\|Scrollish Theorems]] and bringing the realm to the cusp of a industrial revolution.
+The Currendian begins around 420<sub>doz</sub> AS, about 30 years after the death of [[Umm/Locations/Merus\|Merus]]. Its early portion is marked by an increased in military technology, persecution, and eventually war amongst [[Umm/Lore/Umm\|Ummians]] themselves. Its latter portion, where our current day of 471<sub>doz</sub> AS lies, is marked by a realm-wide trade-laws and a cohesive [[Autarunian Council\|Autarunian Council]] allowing the development of [[Scrollish Magic\|Scrollish Theorems]] and bringing the realm to the cusp of a industrial revolution.
 ##### A. War - 423<sub>doz</sub> AS
 
 Using [[Kaevansory\|Kaevansory]] gunpowder as blueprint, [[Umm/Locations/Merusia\|Merusian]] artificers create magical [Arquebuses](https://en.wikipedia.org/wiki/Arquebus) which they use to begin the [[Umm/Locations/Merusia\|Merusian Conquest]] throughout Eastern [[Umm/Lore/Umm\|Ümm]]. This leads to a chain of inter-state conflict throughout the entire realm.

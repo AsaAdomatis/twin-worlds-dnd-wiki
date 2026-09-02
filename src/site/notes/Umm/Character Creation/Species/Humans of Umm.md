@@ -4,9 +4,11 @@
 
 # Humans of Ümm
 
-Humans from the Kingdom of Pot are diverse having been one of the first species created. Scattered across, their skillsets reflect their nation of origin.
+Humans across
 ## Lore
+
 ### Appearance
+
 Humans look like humans, but your nationality gives you additional options.
 
 **Nationality:**
@@ -16,7 +18,6 @@ Humans look like humans, but your nationality gives you additional options.
 
 ### Culture
 Human cultured is varied. However, they're are consistently adaptable and enjoy specializing.
-
 #### Homes
 You can find humans across every nation in Pan. However, they are particularly rare in [[Stonton\|Stonton]],  [[Umm/Locations/Elvilae\|Elvilae]], and [[Dabadem\|Dabadem]] and uncommon in the [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]].
 
@@ -30,6 +31,7 @@ Humans are diverse and adaptable.
 ### Shaterlan
 
 Previous centuries of subjugation and enslavement in the caves and shadows of the [[Shaterlan\|Shaterlan]] led these humans from the Northeast to develop adaptations appropriate for darkness. After they were freed and the Drow banished, they were left to fill in the cracks of society, and so they diversified their skillsets.
+
 - **Ability Score Increase.** 3 different scores of your choice each increase by 1.
 - **Sunlight Sensitivity.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight.
 - **Superior Darkvision.** Your darkvision has a range of 120 feet, instead of 60.

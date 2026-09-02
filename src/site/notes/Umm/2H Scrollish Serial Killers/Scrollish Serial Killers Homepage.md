@@ -4,7 +4,7 @@
 
 # Scrollish Serial Slaughters
 
-> ...
+> Work in progress...
 ## Characters
 
 - [[Umm/Characters/Tasis Von Luft\|Tasis Von Luft]]: Bankrolled Academic
@@ -13,10 +13,12 @@
 - [[Chomper\|Chomper]]: Toothy Tentative Cop
 - [[Elliot Morehell\|Elliot Morehell]]: [[Freland\|Frelish]] Scroll Mill Industrialist
 - Jessy, Bobby, and ?: Kids with Robes and Guns
+- Ronny Fishborg: Kabab Sailsmen
+- Gerald: Two armed bystander; seed enthusiast
 
 ## Quests & Threads
 
-> ...
+> Work in progress...
 ## Session Recaps
 
 ### Part 0: Introductions

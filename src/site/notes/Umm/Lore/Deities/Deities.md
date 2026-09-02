@@ -3,8 +3,34 @@
 ---
 
 
-# Deities of Pot
+# Deities of Ümm
+
+The [[Umm/Lore/Deities/Deities\|Deities of Ümm]] are also very different from standard D&D settings. They are separated into two major categories, Mights and Moshas (out of world, these are equivalent to Gods and Titans respectively). Moshas are forces of nature. They effect your life even if you don't know about them. True Moshas, have negligible agency, but as you gain slightly more as you progress down the hierarchy. On the other hand, Mights are like people, like roman gods. They are powerful and temperamental. If you provide tribute, you gain feel their grace, but spite them and you will feel their wrath. However, in the [[Umm/Lore/The History of Umm#vi. The Currandeian Period\|Currandeian]], the influence of Moshas is no longer well-understood, and the influence of Mights cannot be consistently tracked.
+
 ## Major Deities
+
+- [[Zerula\|Zerula]]
+
+### Mights
+
+- [[Umm/Lore/Deities/Cicebeo\|Cicebeo]]
+- [[Roknoc\|Roknoc]]
+- [[Chican\|Chican]]
+- [[Castius\|Castius]]
+- [[Gray Entity\|The Gray Entity]]
+- [[Umm/Lore/Deities/Relik\|Relik]]: Might of Cycles
+- [[Umm/Lore/Deities/Tuseed\|Tuseed]]: Might of Propagation
+### Moshas
+
+- [[Seamus\|Seamus]]
+- [[Luwom\|Luwom]]
+- [[Aug\|Aug]]
+- [[Curio\|Curio]]
+- [[Ratio\|Ratio]]
+ - [[Ashet\|Ashet]]
+ - [[Flit\|Flit]]
+
+ <!--private-->
 
 | Deity           | Title                                  | Alignment | Type                               | Domains          | Symbol                                                                                                        | Ideals                                                                                                                                                                                                              |
 | --------------- | -------------------------------------- | --------- | ---------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,10 +38,10 @@
 | Seamus          | Mosha of the Open Ocean                | N         | Titan                              | Tempest, Nature  | A circle half filled with waves in it and the rest, a hurricane spiral                                        |                                                                                                                                                                                                                     |
 | Luwom           | Mosha of Growth                        | LN        | Titan                              | Light, Life      | A sun with only four separate points in each of the cardinal direction and a fifth pointing to the north west |                                                                                                                                                                                                                     |
 | Aug             | Mosha of Reclamation                   | N         | Titan                              | Nature, War      | A house with a tree sticking through it.                                                                      |                                                                                                                                                                                                                     |
-| Curio           | Mosha of Curiosity                     | CN        | Titan                              | Knowledge, Death | An upside down skull.                                                                                         | The pursuit of new knowledge regardless of the cost.                                                                                                                                                                |
-| Ratio           | Mosha of Practicality                  | LG        | Titan                              | Order, Knowledge | The division symbol tilted.                                                                                   | The use and retainment of old knowledge to ensure things are done right in the present.                                                                                                                             |
-| Ashet           | Mosha of Accidents                     | CN        | Titan                              | Trickery, Death  | A crow on a ladder.                                                                                           | The acceptance of an unyielding indeterminacy of the world.                                                                                                                                                         |
-| Flit            | Mosha of Inspiration                   | CN        | Titan                              | Life, Tempest    | A humming bird.                                                                                               | Freedom and artistic expression, but relying on it to strike instead of forcing it to come about.                                                                                                                   |
+| Curio           | Might of Curiosity                     | CN        | God                                | Knowledge, Death | An upside down skull.                                                                                         | The pursuit of new knowledge regardless of the cost.                                                                                                                                                                |
+| Ratio           | Might of Practicality                  | LG        | God                                | Order, Knowledge | The division symbol tilted.                                                                                   | The use and retainment of old knowledge to ensure things are done right in the present.                                                                                                                             |
+| Ashet           | Might of Accidents                     | CN        | God                                | Trickery, Death  | A crow on a ladder.                                                                                           | The acceptance of an unyielding indeterminacy of the world.                                                                                                                                                         |
+| Flit            | Might of Inspiration                   | CN        | God                                | Life, Tempest    | A humming bird.                                                                                               | Freedom and artistic expression, but relying on it to strike instead of forcing it to come about.                                                                                                                   |
 | Parcel          | Guardian of the Northern Weather       | N         | Guardian                           | Tempest          | A circling whale.                                                                                             |                                                                                                                                                                                                                     |
 | Cicebeo         | Prince of the Mights                   | CG        | God                                | All Domains      |                                                                                                               | The defiance of the natural order by the enforcement of will upon nature.                                                                                                                                           |
 | Roknoc          | Might of Conquest                      | NN        | God                                | War              |                                                                                                               |                                                                                                                                                                                                                     |
@@ -26,13 +52,15 @@
 | [[Umm/Lore/Deities/Tuseed\|Tuseed]]      | Might of Propagation                   | CN        | God                                | Nature, Trickery |                                                                                                               |                                                                                                                                                                                                                     |
 | Esitor          | The Princess of Titans, the Lost Light | Unknown   | Unknown                            | Unknown          |                                                                                                               |                                                                                                                                                                                                                     |
 |                 |                                        |           |                                    |                  |                                                                                                               |                                                                                                                                                                                                                     |
+<!--endprivate-->
+
 ### Minor Deities
 
-Minor deities most are most often Guardians and Champions.
+There exists a hierarchy of minor deities across Ümm. 
 
 #### Guardians
 
-Guardians are beings blessed by titans with supernatural power. They represent the true nature of a place or location and maintain that nature. Titans do not choose particular beings to be their guardians, but instead the beast connection to an essence creates the bond. The longer a location has stayed the same, the more powerful the Guardian. 
+Guardians are beings blessed by Titans with supernatural power. They represent the true nature of a place or location and maintain that nature. Titans do not choose particular beings to be their guardians, but instead the beast connection to an essence creates the bond. The longer a location has stayed the same, the more powerful the Guardian. 
 
 #### Champions
 
