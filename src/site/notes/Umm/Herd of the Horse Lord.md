@@ -4,7 +4,7 @@
 
 # Herd of the Horse Lord: Ya's Way
 
-The Herd of the Horse Lord is the primary religion of the humans of Ümm. It follows in the wake of the great conqueror [[Umm/Character Creation/Species/Atalan Autarun\|Atalan Ya Autarun]] who defeated the Eladrin conquistadors, the [[Kaevansory\|Kaevansory]] who occupied the majority of Ümm — notably, except for the [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]].
+The Herd of the Horse Lord is the primary religion of the humans of Ümm. It follows in the wake of the great conqueror [[Umm/Character Creation/Species/Atalan Autarun\|Atalan Ya Autarun]] who defeated the Eladrin conquistadors, the [[Kaevansory\|Kaevansory]] who occupied the majority of Ümm — notably, except for the [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]]. It and its bureaucratic infrastructure unite and form the [[Umm/Lore/Organizations/Autarunian Concilliary\|Autarunian Concilliary]].
 
 At the faith's core, it asserts that Ya was a Wright (Champion of the Gods) with the divine edict to unite and rule Ümm.
 

@@ -5,18 +5,49 @@
 
 # The City of Shoe
 
+The city of Shoe is the beating heart of the [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]]. It houses the largest population in the kingdom, with around 250,00 people living their. It's population is the most diverse too. While accepting and safe, a few bad apples populate the streets, especially under the shade of the slate cliffside of the [[Umm/Locations/Plastic City\|Plastic City]]'s steps.
+
 ![Gray Shoe 260722.png](/img/user/Umm/Maps/Gray%20Shoe%20260722.png)
 
 > Above is a current map of the City of Shoe. Each smaller area is a city block and each section is colored by its general neighborhood.
+
 ## Organizations
 
 ### Influential Organizations
 
 These organizations in Shoe have sway over local life and politics and are likely to bump heads with citizens, especially those trying to get into some trouble.
 
-- [[Governor-Mayor Conglomerate\|Governor-Mayor Conglomerate]]: A group of organizations all surrounding the recently elected [[Umm/Characters/Thomas Dugal Kane\|Governor-Mayor Kane]]. This includes the the Adventurer's guild and academy, the Governor-Mayors Office, and the Artificer's guild.
+#### Faithful of the Old Hope
+
+The faithful of the [[Old Hope\|Old Hope]] pantheon believe the [[Umm/Lore/Deities/Deities\|Mights]] still have a powerful presence in the city, and abide by the paths laid out by the [[Umm/Lore/Deities/Deities\|Mights]]
+
 - [[Umm/Lore/Organizations/House of Hurricanes\|Seamanite Assembly]]: An denomination of the [[Old Hope\|Old Hope]], the Assembly has heavy influence over the citizens of the city, a say in river and sea trade, and a decisive opinion on [[Scrollish Magic\|Scrollish Magic]].
-- [[Gang's of Shoe\|Gang's of Shoe]]: The collective gang's of Shoe have a strong grip on commerce and are heavily influential beyond the main walls of the city.
+- [[Umm/Herd of the Horse Lord\|Herd of the Horse Lord]]: While the intersection of the Herd and the [[Old Hope\|Old Hope]] is complicated, they still fall into a similar category of influence. Few Autarunians live in the city, but the [[Umm/Lore/Organizations/Autarunian Concilliary\|Autarunian Concilliary]] is pushing its influence and legitimacy for the people.
+- **Scrollish Magic Take — *Against*:** The faithful believe that [[Scrollish Magic\|Scrollish Magic]] undermines the truth of the [[Umm/Lore/Deities/Deities\|Mights]] and is an afront to the true wielder of magic, the clerics of the Faithful.
+
+#### Gangs of Shoe
+
+The collective gangs of Shoe have a strong grip on commerce and are heavily influential beyond the main walls of the city.
+
+- **Scrollish Magic Take — *For*:** The gang see [[Scrollish Magic\|Scrollish Magic]] as a weapon to wield and profit from, and throw the city into anarchy, leaving a power vacuum for themselves. They want [[Scrollish Magic\|Scrollish Magic]], but they want no legal ability to acquire it.
+
+#### The Industrialists
+
+The industrial are primarily from [[Freland\|Freland]], flowing in as their arcanist continue to push the boundaries of [[Scrollish Magic\|Scrollish Magic]]. 
+
+- **Scrollish Magic Take — *For*:** The industrialist bring [[Scrollish Magic\|Scrollish Magic]] for profit. They want full legality to operate and sell, but don't have much interest in the consequences.
+#### The Sned
+
+The Sned are the luddites of [[Scrollish Magic\|Scrollish Magic]]. They are are a loosely organized group of textile workers, farmers, masons, and the like.
+
+- **Scrollish Magic Take — *Against*:** The Sned want to ban [[Scrollish Magic\|Scrollish Magic]] and legally involve the government of Shoe
+
+#### Governor-Mayor Conglomerate
+
+A group of powerful citizens and organizations all surrounding the recently elected [[Umm/Characters/Thomas Dugal Kane\|Governor-Mayor Kane]]. They are the center of the in-fighting. The parties vary on the lines
+
+- This includes the the Adventurer's guild and academy, the Governor-Mayors Office, and the Artificer's guild.
+- **Scrollish Magic Take — *Mixed*** The Conglomerate has a mixed, steady legislative approach to [[Scrollish Magic\|Scrollish Magic]] waiting to test its merit and consequences before fully implementing it.
 
 ## Locations
 

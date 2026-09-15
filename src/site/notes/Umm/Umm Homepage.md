@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/umm-homepage/","tags":["umm","index"]}
+{"dg-publish":true,"permalink":"/umm/umm-homepage/","tags":["#umm","#index"]}
 ---
 
 # Welcome to the Land of Ümm!
@@ -8,7 +8,7 @@
 
 The [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]], the [[Umm/Locations/Shoe\|City of Shoe]] and the greater continent of Pan is a campaign setting designed around whimsy. Its inspiration is primarily taken from Adventure Time and Studio Ghibli. The major cities of [[Umm/Locations/Pan the Grand Continent\|Pan]] are built upon the ruins of prehistoric civilizations and the magic of the world is small and metered, but is beginning to be fully tapped. 
 
-Right now, we're in the clean year of 464<sub>doz</sub> AS. You can find an abbreviated history [[Umm/Lore/The History of Umm\|here]].
+Right now, we're in the clean year of 464<sub>doz</sub> (652) AS. You can find an abbreviated history [[Umm/Lore/The History of Umm\|here]].
 
 ![Umm the Greater Realm.png](/img/user/Umm/Maps/Umm%20the%20Greater%20Realm.png)
 
@@ -87,6 +87,9 @@ As for culture, Pot is also a boiling cauldron of sentient peoples and its oldes
 The world is generally low tech, with technology only as advanced as it was around the early 18th century. Black powder and steam engines equivalents are recent and highly experimental inventions and haven't been widely adopted because of more accessible magic. Few exception exist however, like the [[Iron Roadrunner\|Iron Roadrunner]], a semi-magical steam train being test to run from the Dwarvish city of [[Stonton\|Stonton]] to [[Nailia\|Nailia]] with plans to expand Eastward to [[Goldpan\|Goldpan]].
 
 # Links
+
+- [[Umm/Calendar of Umm\|Calendar of Umm]]
+
 ### Character Creation Options
 
 - [[Umm/Character Creation/Species/Species Index\|Races/Species/Lineage]]
