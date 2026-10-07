@@ -22,3 +22,13 @@ check: DC 2 History (Intelligence) Check
 **Treasure Hunt:** [[Umm/Locations/Merusian Pyromancy\|Merusian Pyromancy]]. *(You've found a hidden feat! congrats!)*
 
 <!--endsecret-->
+
+## Culture
+
+<!--private-->
+
+First names are a combination of two parts, the first from Arthurian legend, the second from the Bible. Unused example names
+
+- [ ]
+
+<!--endprivate-->

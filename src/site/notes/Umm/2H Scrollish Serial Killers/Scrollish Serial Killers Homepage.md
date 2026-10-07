@@ -15,10 +15,17 @@
 - Jessy, Bobby, and ?: Kids with Robes and Guns
 - Ronny Fishborg: Kabab Sailsmen
 - Gerald: Two armed bystander; seed enthusiast
+- "Regy" Deathsong: Alleyway sleeper, procurer of wet wheat
+- [[Patsy Puff\|Patsy Puff]]: Cat-less witness
+- [[Umm/Characters/Thomas Dugal Kane\|the Mutt]]: Governor-Mayor, [[Chomper\|Chomper]]'s Boss
 
 ## Quests & Threads
 
-> Work in progress...
+- [ ] Who is the mass murderer? Why did they do it?
+- [ ] "In the darkest night, in the dungeons and caverns that were here before the dust." When and where is the location of the next cult meeting?
+- [ ] Why did the mass murderer have an accent like a Merusian, but looked like a Bibbian?
+- [ ] Why was "Regy" asleep in the streets?
+- [ ] What did or did not happen to [[Patsy Puff\|Patsy Puff]] when she witnessed the scene of the crime?
 ## Session Recaps
 
 ### Part 0: Introductions
@@ -59,7 +66,7 @@ A couple questions remain?
 #### 0.2 Scrolls, Mutants, and Rats
 
 **Date:** 7/16/2026
-**Party:** [[Read Books\|Read Books]], [[Umm/Characters/Players/Shelter from the Downpour\|Shelter from the Downpour]], [[Umm/Characters/Players/Cogsworth\|Cogsworth]], [[Fartisius\|Fartisius]]
+**Party:** [[Umm/2H Scrollish Serial Killers/Read Books\|Read Books]], [[Umm/Characters/Players/Shelter from the Downpour\|Shelter from the Downpour]], [[Umm/Characters/Players/Cogsworth\|Cogsworth]], [[Fartisius\|Fartisius]]
 <!--private-->
 **Session:** [[Umm/2H Scrollish Serial Killers/Sessions/0A Prelude/260716 Scrollish Rats\|260716 Scrollish Rats]]
 <!--endprivate-->
@@ -69,18 +76,43 @@ A couple questions remain?
 #### 0.3 Eliot's Mysterious Scrollish Manufactory
 
 **Date:** 8/6/2026
-**Party:** [[Read Books\|Read Books]], [[Umm/Characters/Players/Shelter from the Downpour\|Shelter from the Downpour]], [[Umm/Characters/Players/Timbo\|Timbo]], [[Umm/Characters/Players/Cogsworth\|Cogsworth]]
+**Party:** [[Umm/2H Scrollish Serial Killers/Read Books\|Read Books]], [[Umm/Characters/Players/Shelter from the Downpour\|Shelter from the Downpour]], [[Umm/Characters/Players/Timbo\|Timbo]], [[Umm/Characters/Players/Cogsworth\|Cogsworth]]
 <!--private-->
 **Session:** [[Umm/2H Scrollish Serial Killers/Sessions/0A Prelude/260740B Manufacturers Scrollsa Missing\|Manufactuer's Scrolls'a Missing]]
 <!--endprivate-->
 
 After [[Chomper\|Chomper]]'s dinner quest was failed, he returned with another: journey to the the industrial side of town, the [[Business Block\|Business Block]], to assist the [[Freland\|Frelish]] entrepreneur [[Elliot Morehell\|Elliot Morehell]], in discovering the location of four missing persons and some odd missing items. The result was a fireball casting one-eyed monster lying on a pile of ancient artifacts surrounded by a spattering of four different bodies.
 
-The session begins with Elliot's introduction to the mystery. Aelio, Rulfim, Elial, and Lacey where four employees of the experimental, specially sanctioned scroll mill who had gone missing in the past few months. Several clues turned up during the course of the investigation: Aelio worked across all positions, notably also as a scroll tester. Elial worked on the third floor as an artificer and relic procurer. Rulfim worked the second as a skilled scribe, and finally, Lacey on the bottom as an unskilled scribe. By visiting the third floor medic, they found out Aelio had skipped past required medical assessments before disappearing. By talking to the secretary, a wispy whited hair soft-spoken man, [[Read Books\|Read Books]] found that Rulfim and Elial left after hours while Aelio and Lacey never check out on their last day. By talking to a parrot wildling name Crickets on the first floor, [[Umm/Characters/Players/Cogsworth\|Cogsworth]] and [[Umm/Characters/Players/Shelter from the Downpour\|Shelter from the Downpour]] found Lacey had a reputation for digging through the trash and stealing scrolls. Crickets also alluded to reports from [[Freland\|Freland]] about mysterious one-eyed beast showing up around scroll mills, a fact [[Elliot Morehell\|Elliot]], a Freelander himself, somewhat corroborated. 
+The session begins with Elliot's introduction to the mystery. Aelio, Rulfim, Elial, and Lacey where four employees of the experimental, specially sanctioned scroll mill who had gone missing in the past few months. Several clues turned up during the course of the investigation: Aelio worked across all positions, notably also as a scroll tester. Elial worked on the third floor as an artificer and relic procurer. Rulfim worked the second as a skilled scribe, and finally, Lacey on the bottom as an unskilled scribe. By visiting the third floor medic, they found out Aelio had skipped past required medical assessments before disappearing. By talking to the secretary, a wispy whited hair soft-spoken man, [[Umm/2H Scrollish Serial Killers/Read Books\|Read Books]] found that Rulfim and Elial left after hours while Aelio and Lacey never check out on their last day. By talking to a parrot wildling name Crickets on the first floor, [[Umm/Characters/Players/Cogsworth\|Cogsworth]] and [[Umm/Characters/Players/Shelter from the Downpour\|Shelter from the Downpour]] found Lacey had a reputation for digging through the trash and stealing scrolls. Crickets also alluded to reports from [[Freland\|Freland]] about mysterious one-eyed beast showing up around scroll mills, a fact [[Elliot Morehell\|Elliot]], a Freelander himself, somewhat corroborated. 
 
 During much of this investigation, [[Umm/Characters/Players/Timbo\|Timbo]] explored the storage closet freely through invisibility locating a mysterious shining helmet which he abruptly tossed out a window in fear of getting caught. In doing so, he noticed another clue, another gray-purple spot of sludge in the back alley. However, the helmet was eventually returned by a blonde twin-braided dwarf to the boss [[Elliot Morehell\|Elliot Morehell]], and for his mysterious cunning, [[Umm/Characters/Players/Timbo\|Timbo]] was offered a vague weekend position among [[Elliot Morehell\|Morehell]]'s staff.
 
 The party ended up in said alley, discovering the sludge was melted human flesh. Noticing the upturned sewer grate, they journeyed downwards to discover a bulging one-eyed beast cowering in the dark on a pile of magical items, but the fight ended swiftly. With no seriously injured - with the exception of a slightly charred [[Umm/Characters/Players/Timbo\|Timbo]] of course.
 
+#### 1.1 Introductions
 
+> Work in progress...
+
+#### 1.2a Incipient Investigations - Part 1
+
+> Work in progress...
+#### 1.2b Incipient Investigations - Part 2
+
+> Work in progress...
+
+#### 1.3 Three Visits
+
+**Date:** 10/4/2026
+**Party:** [[Umm/2H Scrollish Serial Killers/Read Books\|Read Books]], [[Umm/Characters/Players/Shelter from the Downpour\|Shelter from the Downpour]], [[Umm/Characters/Players/Timbo\|Timbo]], [[Umm/Characters/Players/Cogsworth\|Cogsworth]], [[Mercutio\|Mercutio]]
+<!--private-->
+**Session:** [[Umm/2H Scrollish Serial Killers/Sessions/1A Three Pillars/261004 Three Visits\|261004 Three Visits]]
+<!--endprivate-->
+
+In this session the party joined by [[Chomper\|Chomper]] visited [[Patsy Puff\|Patsy Puff]], the foreign affairs merchandise administrator who may have seen the Killer, an unnamed cultist, and "Regy" Deathsong.
+
+On First Yaday, Beo, 652 AS, the party awoke in [[Umm/Locations/Book's Books\|Book's Books]]. [[Umm/2H Scrollish Serial Killers/Read Books\|Read Books]] searched for a book containing ancient maps but found nothing. The party left the store to find [[Arren Earthsea\|Arren Earthsea]], the [[Umm/Herd of the Horse Lord\|Autarunian]] paladin, missing from protecting the shop. After pondering clues, the party set of to find [[Patsy Puff\|Patsy Puff]] and discover what she knew. But before they could do so, [[Chomper\|Chomper]] appeared. He soft launched the idea of him staying with them in the store, before saying that a cultist had been detained in the jail. The party decided to go there first. Dropping their stuff at the jail entrance, the part found the cultist pacing and mumbling in his cell "King Ao is coming. The King in Green is coming. Zefir will return..." [[Umm/Characters/Players/Cogsworth\|Cogsworth]] noticed the mumbling and the word Zefir reminded him of the word [[Za'esitor\|Za'esitor]], but he could not place it. After discussing with him for a time, he said something along the lines of meet the cult in [[Umm/Locations/Shoe\|Shoe]] "In the darkest night, in the dungeon and caverns that were here before the dust." He then handed [[Umm/Characters/Players/Cogsworth\|Cogsworth]] a small conch with a spell scroll tucked inside previously detected by [[Umm/Characters/Players/Shelter from the Downpour\|Shelter from the Downpour]].
+
+The part then wen to check on "Regy" ...
+
+> I'm going to bed, updating later.
 

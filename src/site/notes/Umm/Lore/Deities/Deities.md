@@ -9,7 +9,7 @@ The [[Umm/Lore/Deities/Deities\|Deities of Ümm]] are also very different from s
 
 ## Major Deities
 
-- [[Zerula\|Zerula]]
+- [[Umm/Lore/Deities/Zerula the Queen of the Titans\|Zerula the Queen of the Titans]]
 
 ### Mights
 
@@ -71,14 +71,14 @@ On the other hand, champions are the chosen of the gods blessed with their own d
 
 Faiths with locations around Pot that can be visited and joined.
 
-| Name                       | Associated Deities              | Participants                                                  | Popularity | Practices | Boons                                                                                                           |
-| -------------------------- | ------------------------------- | ------------------------------------------------------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------- |
-| Church of Zerula           | Zerula, the Queen of the Titans |                                                               |            |           | A deeper connection to and understanding of the forces of nature and laws of the universe.                      |
-| Palace of Esitor           | Unknown                         | Eccentrics, old families                                      | Very Low   |           |                                                                                                                 |
-| Church of Hurricanes       | Seamus, Titan of the Open Ocean | Sailors, Fishermen, Pilots, Hermits, Survivalists, Sky divers | Medium     |           | An understanding of the weather, the ocean, and its ties to life in the water and on the coast.                 |
-| Sanctuary of Golden Fields | Luwom, Ratio, Aug               | Primarily farmers, but extends to most rural people           | High       |           | An understanding of the intricacies of farming, construction, and the cycle and decay and rebirth of the world. |
-| Home of the Three Rings    | Flit, Ashet, Curio              | Artists, free spirits, nomads, mad scientists, explorers      | Low        |           | More often and more violent strikes of inspiration, passion, and luck.                                          |
-|                            |                                 |                                                               |            |           |                                                                                                                 |
+| Name                                   | Associated Deities              | Participants                                                  | Popularity | Practices | Boons                                                                                                           |
+| -------------------------------------- | ------------------------------- | ------------------------------------------------------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------- |
+| [[Umm/Church of Zerula\|Palace of Zerula]] | Zerula, the Queen of the Titans |                                                               |            |           | A deeper connection to and understanding of the forces of nature and laws of the universe.                      |
+| Palace of Esitor                       | Unknown                         | Eccentrics, old families                                      | Very Low   |           |                                                                                                                 |
+| Church of Hurricanes                   | Seamus, Titan of the Open Ocean | Sailors, Fishermen, Pilots, Hermits, Survivalists, Sky divers | Medium     |           | An understanding of the weather, the ocean, and its ties to life in the water and on the coast.                 |
+| Sanctuary of Golden Fields             | Luwom, Ratio, Aug               | Primarily farmers, but extends to most rural people           | High       |           | An understanding of the intricacies of farming, construction, and the cycle and decay and rebirth of the world. |
+| Home of the Three Rings                | Flit, Ashet, Curio              | Artists, free spirits, nomads, mad scientists, explorers      | Low        |           | More often and more violent strikes of inspiration, passion, and luck.                                          |
+|                                        |                                 |                                                               |            |           |                                                                                                                 |
 
 ## Temples
 

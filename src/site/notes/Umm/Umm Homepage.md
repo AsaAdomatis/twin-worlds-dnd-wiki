@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umm/umm-homepage/","tags":["#umm","#index"]}
+{"dg-publish":true,"permalink":"/umm/umm-homepage/","tags":["umm","index"]}
 ---
 
 # Welcome to the Land of Ümm!
@@ -47,7 +47,7 @@ The difference between the minor, meager, Wrights, and Rushas are difficult to d
 
 [[Old Hope\|Old Hope]]: The Old Hope is an all encompassing faith representing those who worship the [[Mights\|Mights]], [[Moshas\|Moshas]], [[Champions\|Champions]], and [[Guardians\|Guardians]] from ancient history. Their worship is more traditional consisting of sermons, prayer, and mission trips. Common examples of the Old Hope include:
 - [[Umm/Herd of the Horse Lord\|Herd of the Horse Lord]]: Followers of the greater cavalry conqueror, [[Umm/Character Creation/Species/Atalan Autarun\|Ya Autarun]] believing him to be one of the last great [[Champions\|Champions]] They hope to carry on his bloodline and inherit he famed combat skills and legendary sorcery. 
-- [[Church of Zerula\|Church of Zerula]]: The classic good guy chillers. There temples are hospitals and shelters.
+- [[Umm/Church of Zerula\|Church of Zerula]]: The classic good guy chillers. There temples are hospitals and shelters.
 - [[Umm/Lore/Organizations/House of Hurricanes\|House of Hurricanes]]/[[Umm/Lore/Organizations/House of Hurricanes\|Seamanite Assembly]]: Appreciators of the sea and sailors alike. The worship [[Seamus\|Seamus]], the [[Moshas\|Mosha]] of the Open Ocean and [[Parcel, the Sky Whale\|Parcel, the Sky Whale]].
 - [[Sanctuary of Golden Fields\|Sanctuary of Golden Fields]]: Kind farmers with well-kept hearths.
 - [[Home of the Three Rings\|Home of the Three Rings]]: 
@@ -67,7 +67,7 @@ Three magics are known to [[Ümm\|Ümm]], Mishan magic, Folk Magic, and [[Scroll
 
 ### Mishan Magic
 
-Mishan magic is Divine magic channeled by the devout. Once thought to be powerful and prolific in the [[Umm/Lore/The History of Umm#II. The Era of True Mights\|Era of True Mights]], few examples exist today. One is [[Halichoeres Bivittatus\|Halichoeres Bivittatus]], the Arch Bishop of the [[Umm/Lore/Organizations/House of Hurricanes\|Seamanite Assembly]] and [[Madam Thema\|Madam Thema]] of the [[Church of Zerula\|Church of Zerula]].
+Mishan magic is Divine magic channeled by the devout. Once thought to be powerful and prolific in the [[Umm/Lore/The History of Umm#II. The Era of True Mights\|Era of True Mights]], few examples exist today. One is [[Halichoeres Bivittatus\|Halichoeres Bivittatus]], the Arch Bishop of the [[Umm/Lore/Organizations/House of Hurricanes\|Seamanite Assembly]] and [[Madam Thema\|Madam Thema]] of the [[Umm/Church of Zerula\|Church of Zerula]].
 ### Folk Magic
 
 [[Umm/Lore/Umm\|Ümm]]'s magic is primarily folk magic, all learned from the [[Wan-Jer\|Wan-Jer]]. Groups of people for example, can cast an hour long ritual to ensure the crop fields survive an incoming frost, or a single skilled elder might know the song for a sweeter coffee, and the children of the house, the dance to stoke the fire, but the magic is waning. As the true nomads of the [[Wan-Jer\|Wan-Jer]] disappear, and cultures shift, these spells weaken and become lost. For, these spells were never written down, only inherited through oral tradition. They were cast with specific materials and only ever as rituals. They were not easy to recreate.
