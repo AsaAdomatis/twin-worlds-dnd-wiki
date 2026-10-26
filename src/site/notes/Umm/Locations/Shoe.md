@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/umm/locations/shoe/","tags":["umm","location"]}
 ---
 
-
+  
 # The City of Shoe
 
 The city of Shoe is the beating heart of the [[Umm/Locations/Kingdom of Pot\|Kingdom of Pot]]. It houses the largest population in the kingdom, with around 250,00 people living their. It's population is the most diverse too. While accepting and safe, a few bad apples populate the streets, especially under the shade of the slate cliffside of the [[Umm/Locations/Plastic City\|Plastic City]]'s steps.
 
-![Gray Shoe 260722.png](/img/user/Umm/Maps/Gray%20Shoe%20260722.png)
+![Colored Shoe 261019.png](/img/user/Umm/Maps/Colored%20Shoe%20261019.png)
 
 > Above is a current map of the City of Shoe. Each smaller area is a city block and each section is colored by its general neighborhood.
 
@@ -22,7 +22,7 @@ These organizations in Shoe have sway over local life and politics and are likel
 The faithful of the [[Old Hope\|Old Hope]] pantheon believe the [[Umm/Lore/Deities/Deities\|Mights]] still have a powerful presence in the city, and abide by the paths laid out by the [[Umm/Lore/Deities/Deities\|Mights]]
 
 - [[Umm/Lore/Organizations/House of Hurricanes\|Seamanite Assembly]]: An denomination of the [[Old Hope\|Old Hope]], the Assembly has heavy influence over the citizens of the city, a say in river and sea trade, and a decisive opinion on [[Scrollish Magic\|Scrollish Magic]].
-- [[Umm/Herd of the Horse Lord\|Herd of the Horse Lord]]: While the intersection of the Herd and the [[Old Hope\|Old Hope]] is complicated, they still fall into a similar category of influence. Few Autarunians live in the city, but the [[Umm/Lore/Organizations/Autarunian Concilliary\|Autarunian Concilliary]] is pushing its influence and legitimacy for the people.
+- [[Umm/Lore/Organizations/Herd of the Horse Lord\|Herd of the Horse Lord]]: While the intersection of the Herd and the [[Old Hope\|Old Hope]] is complicated, they still fall into a similar category of influence. Few Autarunians live in the city, but the [[Umm/Lore/Organizations/Autarunian Concilliary\|Autarunian Concilliary]] is pushing its influence and legitimacy for the people.
 - **Scrollish Magic Take — *Against*:** The faithful believe that [[Scrollish Magic\|Scrollish Magic]] undermines the truth of the [[Umm/Lore/Deities/Deities\|Mights]] and is an afront to the true wielder of magic, the clerics of the Faithful.
 
 #### Gangs of Shoe
@@ -60,6 +60,7 @@ A group of powerful citizens and organizations all surrounding the recently elec
 - [[Umm/Locations/Main Stretch\|Main Stretch]]
 - [[Umm/Locations/Park of Shoe\|Park of Shoe]]
 - [[Umm/Locations/Platton\|Platton]]
+- [[Umm/Locations/Pigtwo Pools\|Pigtwo Pools]] — the Harbor
 
 #### The Shady Side
 

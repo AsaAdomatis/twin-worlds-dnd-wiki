@@ -19,7 +19,7 @@ See [[Umm/Lore/Deghibabt's Invasion\|Deghibabt's Invasion]] for the fuller telli
 
 Fee, the once great protector and king of Pot, no longer rules so much as he sustains the city. He is the city's engine, and he has spent the last 500 years keeping Fofam aloft by exhausting his own immortality in a permanent dance. In his absence, his now ancient gnome companion Glish governs the city.
 
-Normally affairs would be left to the princess [[Ysmae Mountainsplitter\|Ysmae Mountainsplitter]] and her royal family, but the affairs are occupied in diplomacy. To the dismay of some [[Umm/Locations/Kingdom of Pot\|Pottians]], [[Ysmae Mountainsplitter\|Ysmae]] now courts [[Umm/Lore/Organizations/Autarunian Concilliary\|Autarunian Council]] hoping to gain a psuedo-position, legitimize the [[Umm/Herd of the Horse Lord\|Herd of the Horse Lord]], and greater intertwine the two nations.
+Normally affairs would be left to the princess [[Ysmae Mountainsplitter\|Ysmae Mountainsplitter]] and her royal family, but the affairs are occupied in diplomacy. To the dismay of some [[Umm/Locations/Kingdom of Pot\|Pottians]], [[Ysmae Mountainsplitter\|Ysmae]] now courts [[Umm/Lore/Organizations/Autarunian Concilliary\|Autarunian Council]] hoping to gain a psuedo-position, legitimize the [[Umm/Lore/Organizations/Herd of the Horse Lord\|Herd of the Horse Lord]], and greater intertwine the two nations.
 
 ## Economy
 
@@ -32,7 +32,7 @@ check: DC 15 Insight (Wisdom) Check
 
 Rather than a Kingdom, Pot was once briefly a protectorate with Fee and Font as the floating fortress protector. The evidence grows that Fee will no longer be able to support the city and Fofam will land. If Fofam can't fly, its useless to the rest of Pot for defense, and thus, the social contract upholding the kingdom will collapse.
 
-Ysmae is positioning herself to maintain power by inducing the flow of [[Umm/Herd of the Horse Lord\|Ya's Way]] into [[Umm/Locations/Kingdom of Pot\|Pot]], marrying into a strong bloodline, and establishing divine mandate rule over the Kingdom. by leveraging the [[Umm/Lore/Organizations/Autarunian Concilliary\|Autarunian Council]]'s power.
+Ysmae is positioning herself to maintain power by inducing the flow of [[Umm/Lore/Organizations/Herd of the Horse Lord\|Ya's Way]] into [[Umm/Locations/Kingdom of Pot\|Pot]], marrying into a strong bloodline, and establishing divine mandate rule over the Kingdom. by leveraging the [[Umm/Lore/Organizations/Autarunian Concilliary\|Autarunian Council]]'s power.
 
 She also seeks to shock trade between the two nations alive and land Fofam in a trade strategic area to pump money back into the city.
 

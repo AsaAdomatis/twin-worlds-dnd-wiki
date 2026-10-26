@@ -46,7 +46,7 @@ The difference between the minor, meager, Wrights, and Rushas are difficult to d
 #### The Old Hope
 
 [[Old Hope\|Old Hope]]: The Old Hope is an all encompassing faith representing those who worship the [[Mights\|Mights]], [[Moshas\|Moshas]], [[Champions\|Champions]], and [[Guardians\|Guardians]] from ancient history. Their worship is more traditional consisting of sermons, prayer, and mission trips. Common examples of the Old Hope include:
-- [[Umm/Herd of the Horse Lord\|Herd of the Horse Lord]]: Followers of the greater cavalry conqueror, [[Umm/Character Creation/Species/Atalan Autarun\|Ya Autarun]] believing him to be one of the last great [[Champions\|Champions]] They hope to carry on his bloodline and inherit he famed combat skills and legendary sorcery. 
+- [[Umm/Lore/Organizations/Herd of the Horse Lord\|Herd of the Horse Lord]]: Followers of the greater cavalry conqueror, [[Umm/Character Creation/Species/Atalan Autarun\|Ya Autarun]] believing him to be one of the last great [[Champions\|Champions]] They hope to carry on his bloodline and inherit he famed combat skills and legendary sorcery. 
 - [[Umm/Church of Zerula\|Church of Zerula]]: The classic good guy chillers. There temples are hospitals and shelters.
 - [[Umm/Lore/Organizations/House of Hurricanes\|House of Hurricanes]]/[[Umm/Lore/Organizations/House of Hurricanes\|Seamanite Assembly]]: Appreciators of the sea and sailors alike. The worship [[Seamus\|Seamus]], the [[Moshas\|Mosha]] of the Open Ocean and [[Parcel, the Sky Whale\|Parcel, the Sky Whale]].
 - [[Sanctuary of Golden Fields\|Sanctuary of Golden Fields]]: Kind farmers with well-kept hearths.
